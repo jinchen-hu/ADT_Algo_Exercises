@@ -4,5 +4,5 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 
 ---
 
-## [Abstract Data Type](/Abstract Data Type)
+## [Abstract Data Type](/Abstract Data Type/README.md)
 
