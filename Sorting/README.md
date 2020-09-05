@@ -44,7 +44,7 @@ A sorting algorithm is said to be stable if the elements with equal keys appear 
 
 #### Animation
 
-![bubble-sort](/Users/hujinchen/git-workplace/ADT_Algo_Exercises/common/bubble-sort.gif)
+![bubble-sort](../common/bubble-sort.gif)
 
 #### Code Implementation
 
@@ -96,5 +96,65 @@ A sorting algorithm is said to be stable if the elements with equal keys appear 
 
 ## Selection Sort
 
+The **Selection Sort**  algorithm sorts an array by repeatedly finding the minimum element (considerting ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a give array.
 
+#### Steps
+
+1. Initial state: unsorted partition is R[1, ..., n], sorted partiton is null
+2. When the ith (i = 1, 2, ..., n-1) starts, sorted partition is R[1, ..., i-1], unsorted part is R[i, ..., n].
+   1. Cross through the unsorted partition, determine the minimal element R[k]
+   2. Swap R[k] and R[i]
+   3. Make R[1, ..., i] be the sorted partition, R[i+1, ..., n] be the unsorted partition
+3. The array has been sorted when the (n-1)th sort terminates
+
+#### Animation
+
+![](../common/selection-sort.gif) 
+
+#### Code implemetation
+
+* [Java](SelectionSort.java)
+
+  ```java
+  import java.util.Arrays;
+  
+  public class SelectionSort {
+      public void selectionSort(int arr[]){
+          if(arr==null || arr.length == 0)
+              return;
+          
+          int minIndex = 0;
+          int len = arr.length;
+          // 
+          for (int i = 0; i < len -1; ++i){
+              // Current index of minimum element 
+              minIndex = i;
+              // Find the minimum element in unsorted subarray
+              for (int j = i + 1; j < len; j++){
+                  if(arr[j] < arr[minIndex])
+                      minIndex = j;
+              }
+  
+              if (minIndex != i)
+                  swap(arr, i, minIndex);
+          }
+      }   
+      
+      public void swap (int arr[], int i, int j){
+          int temp = arr[i];
+          arr[i] = arr[j];
+          arr[j] = temp;
+      }
+  
+      public static void main(String[] args) {
+          int arr[] = {19, 45, 12, 22, 11, 90, 65};
+          SelectionSort ss = new SelectionSort();
+          System.out.println(Arrays.toString(arr));
+          ss.selectionSort(arr);
+          System.out.println(Arrays.toString(arr));
+      }
+  }
+  ```
+
+  
 
