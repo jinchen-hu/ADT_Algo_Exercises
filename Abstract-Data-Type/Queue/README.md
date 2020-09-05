@@ -17,4 +17,4 @@
 
 #### Links
 
-* [PriorityQueue]()
+* [PriorityQueue](PriorityQueue-java.md)

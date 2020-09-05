@@ -23,8 +23,8 @@ A **tree** is an abstract model of a hierachical structure, consisiting of a nod
 
 #### Links
 
-* [Binary Tree]()
-* [Binary Search Tree]()
-* [Heap]()
-* [AVL Tree]()
-* [Red-Black Tree]()
+* [Binary Tree](Bianry-Tree.md)
+* [Binary Search Tree](Binary-Search-Tree.md)
+* [Heap](Heap.md)
+* [AVL Tree](AVL-Tree.md)
+* [Red-Black Tree](Red-Black-Tree.md)

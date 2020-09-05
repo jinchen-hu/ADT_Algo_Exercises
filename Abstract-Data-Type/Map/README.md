@@ -6,6 +6,6 @@ A **map** represents a mapping between a key and a value
 
 #### Links
 
-* [HashMap]()
-* [LinkedHashMap]()
-* [HashTable]()
+* [HashMap](HashMap.md)
+* [LinkedHashMap](LinkedHashMap.md)
+* [HashTable](HashTable.md)

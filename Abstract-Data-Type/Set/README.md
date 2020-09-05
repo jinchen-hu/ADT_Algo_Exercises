@@ -6,5 +6,5 @@ A **set** is an unordered collection of objects in which duplicate values cannot
 
 #### Links
 
-* [HashSet]()
-* [LinkedHashSet]()
+* [HashSet](HashSet.md)
+* [LinkedHashSet](LinkedHashSet.md)
