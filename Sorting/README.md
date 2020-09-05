@@ -28,7 +28,7 @@ A sorting algorithm is said to be stable if the elements with equal keys appear 
 | Bucket sort            |          O(n+k)           |        O(n+k)         |         O(n^2)         |      O(n+k)      |    NO    |    YES    |
 | Radix sort             |          O(n*k)           |        O(n*k)         |         O(n*k)         |      O(n+k)      |    NO    |    YES    |
 
-## Bubble
+## Bubble Sort
 
 
 
