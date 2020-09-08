@@ -39,8 +39,9 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 
 ## [LeetCode Exercises](LeetCode-Exercises/)
 
-| NUMBER | DIFFICULTY | TITLE                                                    | TOPIC                                                        |
-| ------ | ---------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| 1      | Easy       | [Two Sum](LeetCode-Exercises/01-Two-Sum/)                | Array, [HashMap](Abstract-Data-Type/Map/HashMap.md), [HashTable](Abstract-Data-Type/Map/HashTabel.md) |
-| 2      | Medium     | [Add Two Numbers](LeetCode-Exercises/02-Add-Two-Numbers) | [Licked List](Abstract-Data-Type/List/LinkedList.md)         |
+| NUMBER | DIFFICULTY | TITLE                                                        | TOPIC                                                |
+| ------ | ---------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 1      | Easy       | [Two Sum](LeetCode-Exercises/01-Two-Sum/)                    | Array, [HashMap](Abstract-Data-Type/Map/)            |
+| 2      | Medium     | [Add Two Numbers](LeetCode-Exercises/02-Add-Two-Numbers/)    | [Licked List](Abstract-Data-Type/List/LinkedList.md) |
+| 3      | Medium     | [Longest Substring without Repeating Charaters](LeetCode-Exercises/03-LongestSubstring-Without-Repeating-Char/) | Sliding Window, [HashMap](/Abstract-Data-Type/Map/)  |
 
