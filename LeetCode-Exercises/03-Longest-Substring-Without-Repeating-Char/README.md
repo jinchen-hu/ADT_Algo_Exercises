@@ -1,4 +1,4 @@
-# [Longeset Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/)
+# [Longeset Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## Description
 
@@ -20,6 +20,9 @@ Explanation: The answer is "abc", with the length of 3.
 2. The slow pointer indicates the position of the first character of the substring
 3. The key indicates the character, while the value is the last occurrance of the character in the Map
 4. Move the slow pointer next to the repulicate element
+
+* Time Complexity: O(n)
+* Space Complexity: O(n)
 
 ![3-longest-substring](../../common/3-longest-substring.gif)
 

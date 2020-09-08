@@ -24,8 +24,10 @@ Output: Because nums[0] + nums[1] == 9, we return [0, 1].
 2. The frist for-loop records the first number and its index
 3. The second records the seconde number, its index, and sum of two numbers
 4. Terminates until getting the given target number
-5. Time complexity: O(n*2)
-6. Space complexity: O(1)
+
+* Time Complexity: O(n*2)
+
+* Space Complexity: O(1)
 
 ```java
 public int[] twoSum(int[] nums, int target) {
@@ -52,8 +54,10 @@ public int[] twoSum(int[] nums, int target) {
 2. Traverse the given array, compute the difference between the current element and target number
 3. If the difference is present in the HashMap, return the result
 4. Otherwise, store the value/index as a k/v pair in the map
-5. Time complexity: O(n)
-6. Space complexity: O(n)
+
+* Time Complexity: O(n)
+
+* Space Complexity: O(n)
 
 #### Animation
 

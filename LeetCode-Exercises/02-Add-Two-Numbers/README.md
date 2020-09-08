@@ -23,8 +23,10 @@ Explanation: 342 + 465 = 807.
 3. A while loop terminates when two ListNode reach to the end
 4. Comput sum = l1.val+l2.val+carry
 5. After the loop ends, if the carry is equal to 1, append a new node with value 1 to the end
-6. Time complexity: O(max(m, n))
-7. Space complexity: O(max(m, n))
+
+* Time Complexity: O(max(m, n))
+
+* Space Complexity: O(max(m, n))
 
 #### Animation
 
