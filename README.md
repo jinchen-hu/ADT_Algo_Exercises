@@ -43,6 +43,6 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 | ------ | ---------- | ------------------------------------------------------------ | ---------------------------------------------------- |
 | 1      | Easy       | [Two Sum](LeetCode-Exercises/01-Two-Sum/)                    | Array, [HashMap](Abstract-Data-Type/Map/)            |
 | 2      | Medium     | [Add Two Numbers](LeetCode-Exercises/02-Add-Two-Numbers/)    | [Licked List](Abstract-Data-Type/List/LinkedList.md) |
-| 3      | Medium     | [Longest Substring without Repeating Charaters](LeetCode-Exercises/03-LongestSubstring-Without-Repeating-Char/) | Sliding Window, [HashMap](/Abstract-Data-Type/Map/)  |
+| 3      | Medium     | [Longest Substring without Repeating Charaters](LeetCode-Exercises/03-Longest-Substring-Without-Repeating-Char/) | Sliding Window, [HashMap](/Abstract-Data-Type/Map/)  |
 | 11     | Medium     | [Container with Most Water](LeetCode-Exercises/11-Container-with-Most-Water/) | Two pointers                                         |
 
