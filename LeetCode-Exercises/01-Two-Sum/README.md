@@ -57,7 +57,7 @@ public int[] twoSum(int[] nums, int target) {
 
 #### Animation
 
-![1.two-sum](../../common/1 - two sum.gif)
+![1.two-sum](../../common/1-two-sum.gif)
 
 ```java
     public int[] twoSum(int[] nums, int target) {

@@ -28,7 +28,7 @@ Explanation: 342 + 465 = 807.
 
 #### Animation
 
-![](../../common/2 - add two numbers.gif)
+![](../../common/2-add-two-numbers.gif)
 
 ```java
 /**
