@@ -45,6 +45,6 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 | 2      | Medium     | [Add Two Numbers](LeetCode-Exercises/02-Add-Two-Numbers/)    | [Licked List](Abstract-Data-Type/List/LinkedList.md) |
 | 3      | Medium     | [Longest Substring without Repeating Charaters](LeetCode-Exercises/03-Longest-Substring-Without-Repeating-Char/) | Sliding Window, [HashMap](/Abstract-Data-Type/Map/)  |
 | 5      | Medium     | [Longest Palindromic Substring](LeetCode-Exercises/05-Longest-Palindromic-Substring/) | Palindromes                                          |
-| 7      | Easy       | [Reverse Integer]([Reverse Integer](LeetCode-Exercises/07-Reverse-Integer/)) | Math                                                 |
+| 7      | Easy       | [Reverse Integer](LeetCode-Exercises/07-Reverse-Integer/)    | Math                                                 |
 | 11     | Medium     | [Container with Most Water](LeetCode-Exercises/11-Container-with-Most-Water/) | Two pointers                                         |
 
