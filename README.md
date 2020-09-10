@@ -49,4 +49,5 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 | 9      | Easy       | [Palindrome Number](LeetCode-Exercises/09-Palindrome-Number/) | Math, Two pointers                                   |
 | 11     | Medium     | [Container with Most Water](LeetCode-Exercises/11-Container-with-Most-Water/) | Two pointers                                         |
 | 20     | Easy       | [Valid Parentheses](LeetCode-Exercises/20-Valid-Parentheses/) | [Stack](Abstract-Data-Type/Stack/)                   |
+| 79     | Medium     | [Word Search](LeetCode-Exercises/79-Word-Search/)            | Backtracking, DFS                                    |
 
