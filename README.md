@@ -17,25 +17,25 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 
 ## [Sorting](Sorting/)
 
--   Bubble Sort
--   Selection Sort
--   Insertion Sort
--   Merge Sort
--   Quick Sort
--   Heap Sort
+-   [Bubble Sort](Sorting/README.md/#Bubble-Sort)
+-   [Selection Sort](Sorting/README.md/#Selection-Sort)
+-   [Insertion Sort](Sorting/README.md/#Insertion-Sort)
+-   [Merge Sort](Sorting/README.md/#Merge-Sort)
+-   [Quick Sort](Sorting/README.md/#Quick-Sort)
+-   [Heap Sort](Sorting/README.md/#Heap-Sort)
 -   Counting Sort
 -   Bucket Sort
 -   Radix Sort
 
 ## [Search](Search/)
 
--   Binary Search
--   Tree Traversal
--   Depth First Search
--   Breadth First Search
--   Dijkstra Algorithm
--   Prim's Algorithm
--   Topological Sort
+-   [Binary Search](Search/README.md/#Binary-Search)
+-   [Tree Traversal](Search/README.md/#Tree-Traversal)
+-   [Depth First Search](Search/README.md/#Depth-First-Search)
+-   [Breadth First Search](Search/README.md/#Breadth-First-Search)
+-   [Dijkstra Algorithm](Search/README.md/#Dijkstra-Alogrithm)
+-   [Prim's Algorithm](Search/README.md/#Prim's-Algorithm)
+-   [Topological Sort](Search/README.md/#Topological-Sort)
 
 ## [LeetCode Exercises](LeetCode-Exercises/)
 
