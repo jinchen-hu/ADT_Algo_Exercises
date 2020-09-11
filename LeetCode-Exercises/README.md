@@ -9,6 +9,7 @@
 | 7      | Easy       | [Reverse Integer](07-Reverse-Integer/)                       | Math                                                         |
 | 9      | Easy       | [Palindrome Number](09-Palindrome-Number/)                   | Math, Two pointers                                           |
 | 11     | Medium     | [Container with Most Water](11-Container-with-Most-Water/)   | Two pointers                                                 |
+| 15     | Medium     | [3sum](15-3sum/)                                             | Two pointers                                                 |
 | 20     | Easy       | [Valid Parentheses](20-Valid-Parentheses/)                   | [Stack](../Abstract-Data-Type/Stack/)                        |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Search/README.md/#Depth-First-Search) |
 
