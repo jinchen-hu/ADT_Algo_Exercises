@@ -12,4 +12,6 @@
 | 15     | Medium     | [3sum](15-3sum/)                                             | Two pointers                                                 |
 | 20     | Easy       | [Valid Parentheses](20-Valid-Parentheses/)                   | [Stack](../Abstract-Data-Type/Stack/)                        |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Search/README.md/#Depth-First-Search) |
+| 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Abstract-Data-Type/Map/), ASCII                 |
+| 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
 

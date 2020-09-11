@@ -51,4 +51,6 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 | 15     | Medium     | [3sum](LeetCode-Exercises/15-3sum/)                          | Two pointers                                              |
 | 20     | Easy       | [Valid Parentheses](LeetCode-Exercises/20-Valid-Parentheses/) | [Stack](Abstract-Data-Type/Stack/)                        |
 | 79     | Medium     | [Word Search](LeetCode-Exercises/79-Word-Search/)            | Backtracking, [DFS](Search/README.md/#Depth-First-Search) |
+| 387    | Easy       | [First Unique Character in a String](LeetCode-Exercises/387-First-Unique-Character-In-String/) | [HashMap](Abstract-Data-Type/Map/), ASCII                 |
+| 709    | Easy       | [To Lower Case](LeetCode-Exercises/709-To-Lower-Case/)       | String, ASCII                                             |
 
