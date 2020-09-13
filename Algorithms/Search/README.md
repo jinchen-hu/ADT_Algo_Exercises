@@ -155,7 +155,7 @@ public class TreeNode {
 
 #### Animation
 
-![DFS](../common/DFS.gif)
+![DFS](../../common/DFS.gif)
 
 #### Complexity Analysis
 
@@ -184,7 +184,7 @@ for each u's adjacent edges e(u, v) do:
 
 #### Animation
 
-![BFS](../common/BFS.gif)
+![BFS](../../common/BFS.gif)
 
 #### Complexity Analysis
 
@@ -303,7 +303,7 @@ Time complexity: O(mlogn)
 
 #### Example
 
-![topological-sort](../common/topological-sort.svg)
+![topological-sort](../../common/topological-sort.svg)
 
 The possible valid topological sorts for the above graph:
 

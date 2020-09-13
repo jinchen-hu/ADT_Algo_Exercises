@@ -7,7 +7,7 @@ ADT is a mathematic modal for a certain class of data structures that have same 
 
 
 
-![collections framework overview](../common/collections-uml.png)
+![collections framework overview](../../common/collections-uml.png)
 
 #### Links
 

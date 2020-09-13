@@ -50,7 +50,7 @@ A sorting algorithm is said to be stable if the elements with equal keys appear 
 
 #### Animation
 
-![bubble-sort](../common/bubble-sort.gif)
+![bubble-sort](../../common/bubble-sort.gif)
 
 #### Code Implementation
 
@@ -152,7 +152,7 @@ The **Selection Sort**  algorithm sorts an array by repeatedly finding the minim
 
 #### Animation
 
-![](../common/selection-sort.gif) 
+![](../../common/selection-sort.gif) 
 
 #### Code implemetation
 
@@ -222,7 +222,7 @@ The **Selection Sort**  algorithm sorts an array by repeatedly finding the minim
 
 #### Animation
 
-![Insertion-Sort](../common/insertion-sort.gif)
+![Insertion-Sort](../../common/insertion-sort.gif)
 
 #### Code Implementation
 
@@ -310,7 +310,7 @@ The **Selection Sort**  algorithm sorts an array by repeatedly finding the minim
 
 #### Animation
 
-![merge-sort](../common/merge-sort.gif)
+![merge-sort](../../common/merge-sort.gif)
 
 #### Code  Implementation
 
@@ -398,7 +398,7 @@ The **Selection Sort**  algorithm sorts an array by repeatedly finding the minim
 
 #### Animation
 
-![quick-sort](../common/quick-sort.gif)
+![quick-sort](../../common/quick-sort.gif)
 
 #### Code Implementation
 
