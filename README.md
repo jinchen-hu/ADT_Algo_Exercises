@@ -52,7 +52,9 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 | 17     | Medium     | [Letter Combinations of a Phone Number](LeetCode-Exercises/17-Letter-Combinations-Phone-Number) | Backtracking                                                 |
 | 20     | Easy       | [Valid Parentheses](LeetCode-Exercises/20-Valid-Parentheses/) | [Stack](Algorithms/Abstract-Data-Type/Stack/)                |
 | 21     | Easy       | [Merge Two Sorted Lists](LeetCode-Exercises/21-Merge-Two-Sorted-Lists/) | [Licked List](Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
+| 53     | Easy       | [Maximum Subarray](LeetCode-Exercises/53-Maximum-Subarray/)  | Dynamic Programming                                          |
 | 79     | Medium     | [Word Search](LeetCode-Exercises/79-Word-Search/)            | Backtracking, [DFS](Algorithms/Search/README.md/#Depth-First-Search) |
+| 94     | Medium     | [Binary Tree Inorder Traversal](LeetCode-Exercises/94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](Algorithm/Search/#Tree-Traversal), [Stack](Algorithms/Abstract-Data-Type/Stack/) |
 | 387    | Easy       | [First Unique Character in a String](LeetCode-Exercises/387-First-Unique-Character-In-String/) | [HashMap](Algorithms/Abstract-Data-Type/Map/), ASCII         |
 | 709    | Easy       | [To Lower Case](LeetCode-Exercises/709-To-Lower-Case/)       | String, ASCII                                                |
 
