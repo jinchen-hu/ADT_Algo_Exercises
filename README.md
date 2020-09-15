@@ -53,6 +53,7 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 | 20     | Easy       | [Valid Parentheses](LeetCode-Exercises/20-Valid-Parentheses/) | [Stack](Algorithms/Abstract-Data-Type/Stack/)                |
 | 21     | Easy       | [Merge Two Sorted Lists](LeetCode-Exercises/21-Merge-Two-Sorted-Lists/) | [Licked List](Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
 | 53     | Easy       | [Maximum Subarray](LeetCode-Exercises/53-Maximum-Subarray/)  | Dynamic Programming                                          |
+| 58     | Easy       | [Length of Last Word](LeetCode-Exercises/58-Length-Of-Last-Word/) | String                                                       |
 | 79     | Medium     | [Word Search](LeetCode-Exercises/79-Word-Search/)            | Backtracking, [DFS](Algorithms/Search/README.md/#Depth-First-Search) |
 | 94     | Medium     | [Binary Tree Inorder Traversal](LeetCode-Exercises/94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](Algorithm/Search/#Tree-Traversal), [Stack](Algorithms/Abstract-Data-Type/Stack/) |
 | 387    | Easy       | [First Unique Character in a String](LeetCode-Exercises/387-First-Unique-Character-In-String/) | [HashMap](Algorithms/Abstract-Data-Type/Map/), ASCII         |
