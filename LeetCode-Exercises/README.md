@@ -19,6 +19,9 @@
 | 94     | Medium     | [Binary Tree Inorder Traversal](94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal), [Stack](../Algorithms/Abstract-Data-Type/Stack/) |
 | 101    | Easy       | [Symmetric Tree](101-Symmetric-Tree/)                        | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
 | 104    | Easy       | [Maximum Depth Of Binary Tree](104-Maximum-Depth-Of-Binary-Tree/) | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
+| 112    | Easy       | [Path Sum](112-Path-Sum/)                                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
+| 125    | Easy       | [Valid Palindrome](125-Valid-Palindrome/)                    | Two Pointers                                                 |
+| 136    | Easy       | [Single Number](136-Single-Number)                           | Bitwise Operation                                            |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
 
