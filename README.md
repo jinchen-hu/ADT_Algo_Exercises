@@ -56,6 +56,8 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 | 58     | Easy       | [Length of Last Word](LeetCode-Exercises/58-Length-Of-Last-Word/) | String                                                       |
 | 79     | Medium     | [Word Search](LeetCode-Exercises/79-Word-Search/)            | Backtracking, [DFS](Algorithms/Search/README.md/#Depth-First-Search) |
 | 94     | Medium     | [Binary Tree Inorder Traversal](LeetCode-Exercises/94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](Algorithm/Search/#Tree-Traversal), [Stack](Algorithms/Abstract-Data-Type/Stack/) |
+| 101    | Easy       | [Symmetric Tree](LeetCode-Exercises/101-Symmetric-Tree/)     | Recursion, [Tree](Algorithms/Abstract-Data-Type/Tree/)       |
+| 104    | Easy       | [Maximum Depth Of Binary Tree](LeetCode-Exercises/104-Maximum-Depth-Of-Binary-Tree/) | Recursion, [Tree](Algorithms/Abstract-Data-Type/Tree/)       |
 | 387    | Easy       | [First Unique Character in a String](LeetCode-Exercises/387-First-Unique-Character-In-String/) | [HashMap](Algorithms/Abstract-Data-Type/Map/), ASCII         |
 | 709    | Easy       | [To Lower Case](LeetCode-Exercises/709-To-Lower-Case/)       | String, ASCII                                                |
 

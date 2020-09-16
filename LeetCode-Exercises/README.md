@@ -17,6 +17,8 @@
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Algorithms/Search/README.md/#Depth-First-Search) |
 | 94     | Medium     | [Binary Tree Inorder Traversal](94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal), [Stack](../Algorithms/Abstract-Data-Type/Stack/) |
+| 101    | Easy       | [Symmetric Tree](101-Symmetric-Tree/)                        | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
+| 104    | Easy       | [Maximum Depth Of Binary Tree](104-Maximum-Depth-Of-Binary-Tree/) | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
 

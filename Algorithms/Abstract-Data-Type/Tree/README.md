@@ -9,7 +9,7 @@ A **tree** is an abstract model of a hierachical structure, consisiting of a nod
 * external node: node without children
 * Ancestor of node: parent, grandparent, ...
 * depth of a node: number of ancestors
-* height of a node: maximum depth of any node (longest path to the leaf)
+* height of a node: maximum depth of any node (longest path to the leaf), the number of edges in the path
 * descendant of a node: child, grandchild, ...
 
 #### Traversal
