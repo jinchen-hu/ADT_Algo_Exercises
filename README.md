@@ -61,6 +61,9 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 | 112    | Easy       | [Path Sum](LeetCode-Exercises/112-Path-Sum/)                 | [DFS](Algorithms/Search/README.md/#Depth-First-Search)       |
 | 125    | Easy       | [Valid Palindrome](LeetCode-Exercises/125-Valid-Palindrome/) | Two Pointers                                                 |
 | 136    | Easy       | [Single Number](leetCode-Exercises/136-Single-Number)        | Bitwise Operation                                            |
+| 141    | Easy       | [Linked List Cycle](LeetCode-Exercises/141-Linked-List-Cycle/) | [HashSet](Algorithms/Abstract-Data-Type/Set/), Two Pointers  |
+| 155    | Easy       | [Min Stack](LeetCode-Exercises/155-Min-Stack/)               | [Stack](Algorithms/Abstract-Data-Type/Stack/)                |
+| 226    | Easy       | [Invert Binary Tree](LeetCode-Exercises/226-Invert-Binary-Tree/) | [Tree](Algorithms/Abstract-Data-Type/Tree/)                  |
 | 387    | Easy       | [First Unique Character in a String](LeetCode-Exercises/387-First-Unique-Character-In-String/) | [HashMap](Algorithms/Abstract-Data-Type/Map/), ASCII         |
 | 709    | Easy       | [To Lower Case](LeetCode-Exercises/709-To-Lower-Case/)       | String, ASCII                                                |
 
