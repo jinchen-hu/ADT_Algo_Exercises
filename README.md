@@ -64,6 +64,8 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 | 141    | Easy       | [Linked List Cycle](LeetCode-Exercises/141-Linked-List-Cycle/) | [HashSet](Algorithms/Abstract-Data-Type/Set/), Two Pointers  |
 | 155    | Easy       | [Min Stack](LeetCode-Exercises/155-Min-Stack/)               | [Stack](Algorithms/Abstract-Data-Type/Stack/)                |
 | 226    | Easy       | [Invert Binary Tree](LeetCode-Exercises/226-Invert-Binary-Tree/) | [Tree](Algorithms/Abstract-Data-Type/Tree/)                  |
+| 242    | Easy       | [Valid Anagram](LeetCode-Exercises/242-Valid-Anagram/)       | [HashMap](Algorithms/Abstract-Data-Type/Map/), ASCII         |
 | 387    | Easy       | [First Unique Character in a String](LeetCode-Exercises/387-First-Unique-Character-In-String/) | [HashMap](Algorithms/Abstract-Data-Type/Map/), ASCII         |
+| 461    | Easy       | [Hamming Distance](LeetCode-Exercises/461-Hamming-Distance/) | Bitwise Operation                                            |
 | 709    | Easy       | [To Lower Case](LeetCode-Exercises/709-To-Lower-Case/)       | String, ASCII                                                |
 

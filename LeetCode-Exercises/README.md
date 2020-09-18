@@ -25,6 +25,8 @@
 | 141    | Easy       | [Linked List Cycle](141-Linked-List-Cycle/)                  | [HashSet](../Algorithms/Abstract-Data-Type/Set/), Two Pointers |
 | 155    | Easy       | [Min Stack](155-Min-Stack/)                                  | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
 | 226    | Easy       | [Invert Binary Tree](226-Invert-Binary-Tree/)                | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
+| 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
+| 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
 
