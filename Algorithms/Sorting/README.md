@@ -300,7 +300,7 @@ The **Selection Sort**  algorithm sorts an array by repeatedly finding the minim
 
 ## Merge Sort
 
-**Merge Sort** is a Divid and Conquer algorithm. It divides input array in two halves, calls itself for the two harlves and then merge the two sorted halves.
+**Merge Sort** is a Divide and Conquer algorithm. It divides input array in two halves, calls itself for the two harlves and then merge the two sorted halves.
 
 #### Steps
 

@@ -11,7 +11,7 @@ Because of JVM, Java Virtual Machine is an intepreter that is able to read and e
 1. Encapsulation: The impelementation and state of each object are privately hidden in a class. Other objects cannot access them. It makes the program self-contained and increases the security
 2. Abstraction: Abstract the common characteristics from something, not focus on details
 3. Inheritance: Relationships and subclasses between objects. Allow us to reuse common logic and functions
-4. Polymorphism: Perform a signle actions in different ways. Same type of two objects call the different output. Complile type->supper class, Running type->subclass
+4. Polymorphism: Perform a signle action in different ways. Same type of two objects call the different output. Complile type->supper class, Running type->subclass
 
 
 
@@ -74,11 +74,11 @@ Abstract class is inborn properties in one thing, while interface is an extra fu
 
 Abstract class can have both abstract method and defined methods
 
-Abstract class in inherited by subclasses, while interface is implemented
+Abstract class is inherited by subclasses, while interface is implemented
 
 Interface can only have static variables
 
-A class can only extend one abstract class but mutiple interfaces
+A class can only extend one abstract class but implement mutiple interfaces
 
 
 
@@ -134,7 +134,7 @@ Comparator: compare() method. Flexible and scalable, can define many compare met
 
 Since they are immutable. They override the hashcode and equals method
 
-If you want to use user-defined object as key, you should rewirte hashco
+If you want to use user-defined object as key, you should rewirte hashcode() and equals()
 
 
 
