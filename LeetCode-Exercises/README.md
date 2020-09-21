@@ -28,5 +28,8 @@
 | 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
+| 617    | Easy       | [Merge Two Binary Trees](617-Merge-Two-Binary-Trees/)        | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
+| 771    | Easy       | [Jewels-And-Stones](771-Jewels-And-Stones/)                  | String                                                       |
+| 938    | Easy       | [Range Sum Of BST](938-Range-Sum-Of-BST/)                    | [BST](../Algorithm/Abstract-Data-Type/Tree/Binary-Search-Tree.md) |
 
