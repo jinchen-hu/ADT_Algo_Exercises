@@ -14,6 +14,7 @@
 | 19     | Meduim     | [Remove Nth Node form End of List](19-Remove-Nth-Node-From-End-Of-List) | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
 | 20     | Easy       | [Valid Parentheses](20-Valid-Parentheses/)                   | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
 | 21     | Easy       | [Merge Two Sorted Lists](21-Merge-Two-Sorted-Lists/)         | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dunmmy head |
+| 22     | Medium     | [Generate Parentheses](22-Generate Parentheses/)             | Backtracking                                                 |
 | 53     | Easy       | [Maximum Subarray](53-Maximum-Subarray/)                     | Dynamic Programming                                          |
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Algorithms/Search/README.md/#Depth-First-Search) |
