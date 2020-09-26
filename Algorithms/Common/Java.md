@@ -150,6 +150,16 @@ Grabege collection is the process that Java programs perform automatic memory ma
 
 
 
+#### What are the new features regarding Java 8, Java 11, Java 14
+
+
+
+#### How do entries store in the HashMap
+
+
+
+#### TCP/IP and Class A, B, C
+
 
 
 
