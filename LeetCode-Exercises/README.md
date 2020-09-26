@@ -18,6 +18,7 @@
 | 33     | Medium     | [Search In Rotated Sorted Array](33-Search-In-Rotated-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 39     | Medium     | [Combination Sum](39-Combination-Sum/)                       | Backtracking                                                 |
+| 46     | Medium     | [Permutations](46-Permutations/)                             | Backtracking                                                 |
 | 53     | Easy       | [Maximum Subarray](53-Maximum-Subarray/)                     | Dynamic Programming                                          |
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Algorithms/Search/README.md/#Depth-First-Search) |
