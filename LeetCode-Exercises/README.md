@@ -19,6 +19,8 @@
 | 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 39     | Medium     | [Combination Sum](39-Combination-Sum/)                       | Backtracking                                                 |
 | 46     | Medium     | [Permutations](46-Permutations/)                             | Backtracking                                                 |
+| 48     | Medium     | [Rotate Image](48-Rotate-Image)                              | Array                                                        |
+| 49     | Medium     | [Group Anagrams](49-Group-Anagrams)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 53     | Easy       | [Maximum Subarray](53-Maximum-Subarray/)                     | Dynamic Programming                                          |
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
 | 77     | Medium     | [Combinations](77-Combinations/)                             | Backtracking                                                 |
