@@ -21,6 +21,7 @@
 | 46     | Medium     | [Permutations](46-Permutations/)                             | Backtracking                                                 |
 | 53     | Easy       | [Maximum Subarray](53-Maximum-Subarray/)                     | Dynamic Programming                                          |
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
+| 77     | Medium     | [Combinations](77-Combinations/)                             | Backtracking                                                 |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Algorithms/Search/README.md/#Depth-First-Search) |
 | 94     | Medium     | [Binary Tree Inorder Traversal](94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal), [Stack](../Algorithms/Abstract-Data-Type/Stack/) |
 | 101    | Easy       | [Symmetric Tree](101-Symmetric-Tree/)                        | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
