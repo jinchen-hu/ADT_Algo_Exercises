@@ -6,7 +6,7 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 
 ## [LeetCode Exercises](LeetCode-Exercises/)
 
-## [Abstract Data Type](Algorithems/Abstract-Data-Type/)
+## [Abstract Data Type](Algorithms/Abstract-Data-Type/)
 
 -   [Stack](Algorithms/Abstract-Data-Type/Stack/)
 -   [Queue](Algorithms/Abstract-Data-Type/Queue/)
