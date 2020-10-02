@@ -25,6 +25,7 @@
 | 55     | Medium     | [Jump Game](55-Jump-Game/)                                   | Greedy                                                       |
 | 56     | Medium     | [Merge Intervals](56-Merge-Intervals)                        | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
+| 62     | Medium     | [Unique Path](62-Unique-Path)                                | Combination                                                  |
 | 77     | Medium     | [Combinations](77-Combinations/)                             | Backtracking                                                 |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Algorithms/Search/README.md/#Depth-First-Search) |
 | 94     | Medium     | [Binary Tree Inorder Traversal](94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal), [Stack](../Algorithms/Abstract-Data-Type/Stack/) |
