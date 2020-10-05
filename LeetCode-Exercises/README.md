@@ -27,6 +27,8 @@
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
 | 62     | Medium     | [Unique Path](62-Unique-Path)                                | Combination                                                  |
 | 64     | Medium     | [Minimum Path Sum](64-Minimum-Path-Sum)                      | Dynamic Programming                                          |
+| 70     | Easy       | [Climbing Stairs](70-Climbing-Stairs)                        | Fibonacci                                                    |
+| 75     | Medium     | [Sort-Colors](75-Sort-Colors)                                | Two Pointers                                                 |
 | 77     | Medium     | [Combinations](77-Combinations/)                             | Backtracking                                                 |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Algorithms/Search/README.md/#Depth-First-Search) |
 | 94     | Medium     | [Binary Tree Inorder Traversal](94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal), [Stack](../Algorithms/Abstract-Data-Type/Stack/) |
