@@ -35,3 +35,27 @@
     3. Configure the dependency injection in Spring config file
   * Setter Injection
   * auto-wiring
+    * Spring will look for a class that matched the property, and inject it automatically
+    * Filed-injection
+      * set field values on your class directly, even private fields
+      * accomplished by using Java reflection
+
+## Spring Bean Scopes
+
+|     SCOPE      |                         DESCRIPTION                         |
+| :------------: | :---------------------------------------------------------: |
+|   singleton    | Create a single shared instance of the Bean. Default scope  |
+|   prototype    |    Create a new bean instance for each container request    |
+|    request     |    Scoped to an HTTP web request. Only used for web apps    |
+|    session     |    Scoped to an HTTP web session. Only used for web apps    |
+| global-session | Scoped to a global HTTP web session. Only used for web apps |
+
+## Java Annotations
+
+* Special labels/markers added to Java classes
+* Provide metadata about the class
+* Process at compile time or run time for special processing
+
+1. Enable component scanning in Spring config file
+2. Add the @Component Annotation to the Java classes, which registers the Spring bean automatically
+3. Retrieve bean from Spring container 
