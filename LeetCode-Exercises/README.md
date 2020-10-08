@@ -33,6 +33,8 @@
 | 77     | Medium     | [Combinations](77-Combinations/)                             | Backtracking                                                 |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Algorithms/Search/README.md/#Depth-First-Search) |
 | 94     | Medium     | [Binary Tree Inorder Traversal](94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal), [Stack](../Algorithms/Abstract-Data-Type/Stack/) |
+| 96     | Medium     | [Unique Binary Search Trees](96-Unique-Bianray-Search-Trees/) | Dynamic Programming                                          |
+| 98     | Medium     | [Validate Binary Search Tree](98-Validate-Binary-Search-Tree) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 101    | Easy       | [Symmetric Tree](101-Symmetric-Tree/)                        | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
 | 104    | Easy       | [Maximum Depth Of Binary Tree](104-Maximum-Depth-Of-Binary-Tree/) | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
 | 112    | Easy       | [Path Sum](112-Path-Sum/)                                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
