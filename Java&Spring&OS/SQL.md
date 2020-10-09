@@ -283,3 +283,4 @@ ON table1.col_name = table2.col_name;
 ![SQL RIGHT JOIN](https://www.w3schools.com/sql/img_rightjoin.gif)
 
 * **Full join** returns all records when there is a match in left and right table
+
