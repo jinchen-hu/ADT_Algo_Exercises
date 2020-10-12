@@ -84,7 +84,7 @@ A class can only extend one abstract class but implement mutiple interfaces
 
 #### What is the difference between exception and error
 
-Error indicated serious problems that the program disables to handle, while exception indicates conditions that program want to catch. Error and runtime exception are unchecked, but for runtime exception, we can handle by modifiying the code
+Error indicated serious problems that the program disables to handle, while exception indicates conditions that program want to catch. Error and runtime exception are unchecked, but for the other exception, we can handle by modifiying the code
 
 
 

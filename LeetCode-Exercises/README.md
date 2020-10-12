@@ -9,6 +9,7 @@
 | 7      | Easy       | [Reverse Integer](07-Reverse-Integer/)                       | Math                                                         |
 | 9      | Easy       | [Palindrome Number](09-Palindrome-Number/)                   | Math, Two pointers                                           |
 | 11     | Medium     | [Container with Most Water](11-Container-with-Most-Water/)   | Two pointers                                                 |
+| 13     | Easy       | [Roman to Integer](13-Roman-to-Integer)                      | Two pointers                                                 |
 | 15     | Medium     | [3sum](15-3sum/)                                             | Two pointers                                                 |
 | 17     | Medium     | [Letter Combinations of a Phone Number](17-Letter-Combinations-Phone-Number) | Backtracking                                                 |
 | 19     | Meduim     | [Remove Nth Node form End of List](19-Remove-Nth-Node-From-End-Of-List) | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
@@ -40,9 +41,12 @@
 | 104    | Easy       | [Maximum Depth Of Binary Tree](104-Maximum-Depth-Of-Binary-Tree/) | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
 | 105    | Medium     | [Construct Binary Tree from Preorder and Inorder Traversal](105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 112    | Easy       | [Path Sum](112-Path-Sum/)                                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
+| 121    | Easy       | [Best Time to Buy and Sell Stock](121-Best-Time-to-Buy-and-Sell-Stock/) | Dynamic Programming                                          |
+| 114    | Medium     | [Flatten Binary Tree to Linked List](114-Flatten-Binary-Tree-to-Linked-List/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 125    | Easy       | [Valid Palindrome](125-Valid-Palindrome/)                    | Two Pointers                                                 |
 | 136    | Easy       | [Single Number](136-Single-Number)                           | Bitwise Operation                                            |
 | 141    | Easy       | [Linked List Cycle](141-Linked-List-Cycle/)                  | [HashSet](../Algorithms/Abstract-Data-Type/Set/), Two Pointers |
+|        |            |                                                              |                                                              |
 | 155    | Easy       | [Min Stack](155-Min-Stack/)                                  | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
 | 226    | Easy       | [Invert Binary Tree](226-Invert-Binary-Tree/)                | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
