@@ -15,7 +15,7 @@
 | 19     | Meduim     | [Remove Nth Node form End of List](19-Remove-Nth-Node-From-End-Of-List) | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
 | 20     | Easy       | [Valid Parentheses](20-Valid-Parentheses/)                   | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
 | 21     | Easy       | [Merge Two Sorted Lists](21-Merge-Two-Sorted-Lists/)         | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dunmmy head |
-| 22     | Medium     | [Generate Parentheses](22-Generate Parentheses/)             | Backtracking                                                 |
+| 22     | Medium     | [Generate Parentheses](22-Generate-Parentheses/)             | Backtracking                                                 |
 | 33     | Medium     | [Search In Rotated Sorted Array](33-Search-In-Rotated-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 39     | Medium     | [Combination Sum](39-Combination-Sum/)                       | Backtracking                                                 |
@@ -41,8 +41,9 @@
 | 104    | Easy       | [Maximum Depth Of Binary Tree](104-Maximum-Depth-Of-Binary-Tree/) | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
 | 105    | Medium     | [Construct Binary Tree from Preorder and Inorder Traversal](105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 112    | Easy       | [Path Sum](112-Path-Sum/)                                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
-| 121    | Easy       | [Best Time to Buy and Sell Stock](121-Best-Time-to-Buy-and-Sell-Stock/) | Dynamic Programming                                          |
+|        |            |                                                              |                                                              |
 | 114    | Medium     | [Flatten Binary Tree to Linked List](114-Flatten-Binary-Tree-to-Linked-List/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
+| 121    | Easy       | [Best Time to Buy and Sell Stock](121-Best-Time-to-Buy-and-Sell-Stock/) | Dynamic Programming                                          |
 | 125    | Easy       | [Valid Palindrome](125-Valid-Palindrome/)                    | Two Pointers                                                 |
 | 136    | Easy       | [Single Number](136-Single-Number)                           | Bitwise Operation                                            |
 | 141    | Easy       | [Linked List Cycle](141-Linked-List-Cycle/)                  | [HashSet](../Algorithms/Abstract-Data-Type/Set/), Two Pointers |
