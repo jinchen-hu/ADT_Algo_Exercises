@@ -1,4 +1,4 @@
-# Spring MVC
+# [Spring MVC](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
 
 ## What is Spring MVC
 
@@ -6,7 +6,7 @@
 * Based on Model-View-Controller design pattern
 * Leverages features of the Core Spring Framework
 
-![Spring MVC Tutorial](https://static.javatpoint.com/sppages/images/spring-web-model-view-controller.png)
+![SpringMVCRequestLifecycle](/Users/luke/github-workplace/ADT_Algo_Exercises/common/SpringMVCRequestLifecycle.png)
 
 #### Front Controller
 

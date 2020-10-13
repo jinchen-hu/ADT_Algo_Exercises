@@ -46,6 +46,7 @@
 | 121    | Easy       | [Best Time to Buy and Sell Stock](121-Best-Time-to-Buy-and-Sell-Stock/) | Dynamic Programming                                          |
 | 125    | Easy       | [Valid Palindrome](125-Valid-Palindrome/)                    | Two Pointers                                                 |
 | 136    | Easy       | [Single Number](136-Single-Number)                           | Bitwise Operation                                            |
+| 138    | Medium     | [Copy List with Random Pointer](138-Copy-List-with-Random-Pointer/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 141    | Easy       | [Linked List Cycle](141-Linked-List-Cycle/)                  | [HashSet](../Algorithms/Abstract-Data-Type/Set/), Two Pointers |
 |        |            |                                                              |                                                              |
 | 155    | Easy       | [Min Stack](155-Min-Stack/)                                  | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |

@@ -9,3 +9,4 @@ A **map** represents a mapping between a key and a value
 * [HashMap](HashMap.md)
 * [LinkedHashMap](LinkedHashMap.md)
 * [HashTable](HashTable.md)
+* [TreeMap](TreeMap.md)

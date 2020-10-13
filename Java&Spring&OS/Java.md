@@ -152,13 +152,31 @@ Grabege collection is the process that Java programs perform automatic memory ma
 
 #### What are the new features regarding Java 8, Java 11, Java 14
 
+#### Java 8
+
+* Lambda expression
+* Stream API for collections
+
+#### Java 11
+
+* String methods: isBlank(), repeat(int i), lines().counts
+* Strengthen stream
+
+#### Java 14
+
+* **instanceof** can operate casting if the type matches
+* switch beconmes more standarized, multipe tags can be split using comma, and -> stands for only execute right statement
+* 
+
 
 
 #### How do entries store in the HashMap
 
+* Internally HashMap contains an array of Node and a node is represented as a class which contains 4 fields: int hash, K key, V value, Node next
+* It can be seen that node is containing a reference of its own object. So it's a linked list
+* Therefore, it's a combination of array and linked list, where array is main structure, and linked list is to resolve hash collision
 
 
-#### TCP/IP and Class A, B, C
 
 
 

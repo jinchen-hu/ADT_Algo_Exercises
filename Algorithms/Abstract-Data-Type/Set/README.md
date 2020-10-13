@@ -8,3 +8,4 @@ A **set** is an unordered collection of objects in which duplicate values cannot
 
 * [HashSet](HashSet.md)
 * [LinkedHashSet](LinkedHashSet.md)
+* [TreeSet](TreeSet.md)
