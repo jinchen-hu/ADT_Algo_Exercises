@@ -38,3 +38,14 @@
 * Default login form
   * Spring security provides a default login form
 * Custom login form
+
+## Corss-site Request Forgery (CSRF)
+
+A security attack where an evil website tricks you into executing an action on a web application that you are currently logged in
+
+#### Protection
+
+* Spring Security uses Sychronizer Token Pattern
+  * Each request includes a sesscion cookie and randomly generated token
+* For request processing, Spring security verifies token before processing
+

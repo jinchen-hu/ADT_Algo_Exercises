@@ -47,8 +47,9 @@
 | 125    | Easy       | [Valid Palindrome](125-Valid-Palindrome/)                    | Two Pointers                                                 |
 | 136    | Easy       | [Single Number](136-Single-Number)                           | Bitwise Operation                                            |
 | 138    | Medium     | [Copy List with Random Pointer](138-Copy-List-with-Random-Pointer/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
+| 139    | Medium     | [Word Break](139-Word-Break/)                                | Dynamic Programming                                          |
 | 141    | Easy       | [Linked List Cycle](141-Linked-List-Cycle/)                  | [HashSet](../Algorithms/Abstract-Data-Type/Set/), Two Pointers |
-|        |            |                                                              |                                                              |
+| 142    | Medium     | [Linked List Cycle II](142-Linked-List-Cycle-II/)            |                                                              |
 | 155    | Easy       | [Min Stack](155-Min-Stack/)                                  | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
 | 226    | Easy       | [Invert Binary Tree](226-Invert-Binary-Tree/)                | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
