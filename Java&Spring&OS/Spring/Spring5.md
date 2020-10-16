@@ -31,7 +31,7 @@
 ## Dependency Injection
 
 * Inject object's dependencies (like helper objects)
-  * Constructor Injection
+  * Constructor Injection (recommended)
     1. Define the dependency interface and class
     2. Create a constructor in your class for injections
     3. Configure the dependency injection in Spring config file
@@ -61,3 +61,4 @@
 1. Enable component scanning in Spring config file
 2. Add the @Component Annotation to the Java classes, which registers the Spring bean automatically
 3. Retrieve bean from Spring container 
+

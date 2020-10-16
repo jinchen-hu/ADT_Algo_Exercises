@@ -178,9 +178,82 @@ Grabege collection is the process that Java programs perform automatic memory ma
 
 
 
+#### What is tight coupling
+
+When a class, say, class A is dependent on another class's object, say B, then we say a is tightly coupled with B
 
 
 
+#### What is loose couple
+
+removes the dependency of an object on another class. It is approched by creating an interface and a setter&getter method, or by using a constructor which takes the interface object
 
 
 
+#### What are Java Beans in Spring
+
+When a class is annotated or decorated using @Component, such a class is called a Spring Bean, which is maintained by Application Context
+
+A Java Object initialized by the Spring IoC container
+
+
+
+#### Explain Bean creation process
+
+1. The program finds the class A with @Component annotation
+2. Check if it's dependent on another class B
+3. If yes, create a Bean for B
+4. Finally, a connection or autowiring will occur between two classes using @Autowired annotation
+
+
+
+#### What is Dependency Injection
+
+Dependency injection is where Spring searches for beans; once the approciate bean is found, it autowires the bean to the dependent class. Dependency injection is the process when Spring framework looks for the beans and identifies the dependencies, and create the instances of beans and autowires them.
+
+
+
+#### Explain Inversion of Control
+
+In tight coupling the dependent class takes the responsibility of creating its dependency. Whereas, in loose coupling, we use @Autowired annotation over the dependency class and Spring takes control of creating the instance and injects the dependency.
+
+
+
+#### Roles of IoC
+
+1. Find Beans
+2. Identify their dependencies and wire the dependencies
+3. Manage Lifecycle of the Bean
+
+
+
+#### Process of Spring MVC
+
+1. The browser sends a request to DispatcherServlt
+2. DispatcherServlet know the HanderMapping and can find the appropriate controllers
+3. Controllers executes the request and put the data in the model and return back the view name to DispatcherServlet
+4. DispatcherServlet uses the view name and ViewResolver to map to the view
+
+
+
+#### What is Hibernate
+
+Once the mapping is done, Hibernate will help us create query and interact with the database
+
+
+
+#### What is POM.xml
+
+Project Object Model is an XML formatted file in which all the configuration for a maven project is defined.
+
+
+
+#### What is SpringSecurity
+
+Spring security provides scurity services (authemtication and authority methods) to j2ee applications. Spring Security is implemented using Servlet Filter, which is used to pre-process or post-process web requests
+
+
+
+#### What is CSRF
+
+Cross-site-request-forgery is a security attach where a fraudulent websites tricks the user into perfroming an event on the web application that he is logged into.
