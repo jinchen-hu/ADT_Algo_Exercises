@@ -166,7 +166,7 @@ Grabege collection is the process that Java programs perform automatic memory ma
 
 * **instanceof** can operate casting if the type matches
 * switch beconmes more standarized, multipe tags can be split using comma, and -> stands for only execute right statement
-* 
+* Record class
 
 
 
@@ -230,7 +230,7 @@ In tight coupling the dependent class takes the responsibility of creating its d
 #### Process of Spring MVC
 
 1. The browser sends a request to DispatcherServlt
-2. DispatcherServlet know the HanderMapping and can find the appropriate controllers
+2. DispatcherServlet know the HandlerMapping and can find the appropriate controllers
 3. Controllers executes the request and put the data in the model and return back the view name to DispatcherServlet
 4. DispatcherServlet uses the view name and ViewResolver to map to the view
 
