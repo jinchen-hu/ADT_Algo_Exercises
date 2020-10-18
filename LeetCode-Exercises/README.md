@@ -52,6 +52,8 @@
 | 142    | Medium     | [Linked List Cycle II](142-Linked-List-Cycle-II/)            |                                                              |
 | 146    | Medium     | [LRU Cache](146-LRU-Cache/)                                  | Doubly LinkedList, [HashMap](../Algorithms/Abstract-Data-Type/Map/) |
 | 155    | Easy       | [Min Stack](155-Min-Stack/)                                  | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
+| 160    | Easy       | [Intersection of Two Linked Lists](160-Intersection-of-Two-Linked-Lists/) | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
+| 169    | Easy       | [Majority Element](169-Majority-Element/)                    |                                                              |
 | 226    | Easy       | [Invert Binary Tree](226-Invert-Binary-Tree/)                | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
