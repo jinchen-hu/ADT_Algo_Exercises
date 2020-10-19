@@ -4,7 +4,7 @@ The repository consists of the basis of Abstract Data Type, commonly-used algori
 
 ---
 
-## [LeetCode Exercises](LeetCode-Exercises/)
+## [LeetCode Exercises](LeetCode-Exercises/README.md)
 
 ## [Abstract Data Type](Algorithms/Abstract-Data-Type/)
 
