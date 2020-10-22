@@ -56,6 +56,7 @@
 | 169    | Easy       | [Majority Element](169-Majority-Element/)                    |                                                              |
 | 200    | Medium     | [Number of Islands](200-Number-of-Islands/)                  | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 207    | Medium     | [Course Schedule](207-Course-Schedule/)                      | [DFS](../Algorithms/Search/README.md/#Depth-First-Search), Topological Sorting |
+| 215    | Medium     | [Kth Largest Element in an Array](215-Kth-Largest-Element-in-an-Array/) | Divide and Conquer                                           |
 | 226    | Easy       | [Invert Binary Tree](226-Invert-Binary-Tree/)                | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
