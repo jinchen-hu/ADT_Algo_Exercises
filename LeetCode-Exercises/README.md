@@ -59,6 +59,8 @@
 | 215    | Medium     | [Kth Largest Element in an Array](215-Kth-Largest-Element-in-an-Array/) | Divide and Conquer                                           |
 | 226    | Easy       | [Invert Binary Tree](226-Invert-Binary-Tree/)                | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 230    | Medium     | [Kth Smallest Element in a BST](230-Kth-Smallest-Element-in-a-BST/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
+| 234    | Medium     | [Palindrome Linked List](234-Palindrome-Linked-List)         | Two pointers                                                 |
+| 236    | Medium     | [Lowest Common Ancestor of a Binary Tree](236-Lowest-Common-Ancestor-of-a-Binary-Tree/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
