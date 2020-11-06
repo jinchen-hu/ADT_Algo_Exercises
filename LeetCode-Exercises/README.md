@@ -56,6 +56,7 @@
 | 169    | Easy       | [Majority Element](169-Majority-Element/)                    |                                                              |
 | 198    | Easy       | [House-Robber](198-House-Robber/)                            | Dynamic Programming                                          |
 | 200    | Medium     | [Number of Islands](200-Number-of-Islands/)                  | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
+| 206    | Easy       | [Reverse Linked List](206-Reverse-Linked-List)               | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 207    | Medium     | [Course Schedule](207-Course-Schedule/)                      | [DFS](../Algorithms/Search/README.md/#Depth-First-Search), Topological Sorting |
 | 208    | Medium     | [Implement Trie (Prefix Tree)](208-Implement-Trie-(Prefix-Tree)/) | Design                                                       |
 | 215    | Medium     | [Kth Largest Element in an Array](215-Kth-Largest-Element-in-an-Array/) | Divide and Conquer                                           |
@@ -67,7 +68,10 @@
 | 240    | Medium     | [Search a 2D Matrix II](240-Search-a-2D-Matrix-II/)          | Divide and Conquer                                           |
 | 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 283    | Easy       | [Move Zeroes](283-Move-Zeroes/)                              | Two pointers                                                 |
+| 287    | Medium     | [Find the Duplicate Number](287-Find-the-Duplicate-Number/)  | Two pointers                                                 |
+| 337    | Medium     | [House Robber III](337-House-Robber-III/)                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
+|        |            |                                                              |                                                              |
 | 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
 | 617    | Easy       | [Merge Two Binary Trees](617-Merge-Two-Binary-Trees/)        | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
