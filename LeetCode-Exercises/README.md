@@ -16,6 +16,7 @@
 | 20     | Easy       | [Valid Parentheses](20-Valid-Parentheses/)                   | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
 | 21     | Easy       | [Merge Two Sorted Lists](21-Merge-Two-Sorted-Lists/)         | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dunmmy head |
 | 22     | Medium     | [Generate Parentheses](22-Generate-Parentheses/)             | Backtracking                                                 |
+| 26     | Easy       | [Remove Duplicates from Sorted Array](26-Remove-Duplicates-from-Sorted-Array/) | Two Pointers                                                 |
 | 33     | Medium     | [Search In Rotated Sorted Array](33-Search-In-Rotated-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 39     | Medium     | [Combination Sum](39-Combination-Sum/)                       | Backtracking                                                 |
@@ -70,8 +71,9 @@
 | 283    | Easy       | [Move Zeroes](283-Move-Zeroes/)                              | Two pointers                                                 |
 | 287    | Medium     | [Find the Duplicate Number](287-Find-the-Duplicate-Number/)  | Two pointers                                                 |
 | 337    | Medium     | [House Robber III](337-House-Robber-III/)                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
+| 347    | Medium     | [Top K Frequent Elements](347-Top-K-Frequent-Elements/)      |                                                              |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
-|        |            |                                                              |                                                              |
+| 394    | Medium     | [Decode String](394-Decode-String/)                          | Stack                                                        |
 | 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
 | 617    | Easy       | [Merge Two Binary Trees](617-Merge-Two-Binary-Trees/)        | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
