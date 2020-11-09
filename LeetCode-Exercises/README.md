@@ -17,6 +17,7 @@
 | 21     | Easy       | [Merge Two Sorted Lists](21-Merge-Two-Sorted-Lists/)         | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dunmmy head |
 | 22     | Medium     | [Generate Parentheses](22-Generate-Parentheses/)             | Backtracking                                                 |
 | 26     | Easy       | [Remove Duplicates from Sorted Array](26-Remove-Duplicates-from-Sorted-Array/) | Two Pointers                                                 |
+| 28     | Easy       | [Implement strStr()](28-Implement-strStr()/)                 | Two Pointers                                                 |
 | 33     | Medium     | [Search In Rotated Sorted Array](33-Search-In-Rotated-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 39     | Medium     | [Combination Sum](39-Combination-Sum/)                       | Backtracking                                                 |
@@ -29,6 +30,7 @@
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
 | 62     | Medium     | [Unique Path](62-Unique-Path)                                | Combination                                                  |
 | 64     | Medium     | [Minimum Path Sum](64-Minimum-Path-Sum)                      | Dynamic Programming                                          |
+| 66     | Easy       | [Plus One](66-Plus-One/)                                     |                                                              |
 | 70     | Easy       | [Climbing Stairs](70-Climbing-Stairs)                        | Fibonacci                                                    |
 | 75     | Medium     | [Sort-Colors](75-Sort-Colors)                                | Two Pointers                                                 |
 | 78     | Medium     | [Subset](78-Subsets/)                                        | Backtracking                                                 |
