@@ -76,7 +76,9 @@
 | 347    | Medium     | [Top K Frequent Elements](347-Top-K-Frequent-Elements/)      |                                                              |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 394    | Medium     | [Decode String](394-Decode-String/)                          | Stack                                                        |
+| 437    | Medium     | [Path Sum III](437-Path-Sum-III/)                            | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
+| 473    | Medium     | [Matchsticks to Square](473-Matchsticks-to-Square/)          |                                                              |
 | 617    | Easy       | [Merge Two Binary Trees](617-Merge-Two-Binary-Trees/)        | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
 | 739    | Medium     | [Daily Temperatures](739-Daily-Temperatures/)                | Stack                                                        |
