@@ -78,9 +78,10 @@
 | 394    | Medium     | [Decode String](394-Decode-String/)                          | Stack                                                        |
 | 437    | Medium     | [Path Sum III](437-Path-Sum-III/)                            | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 438    | Medium     | [Find All Anagrams in a String](438-Find-All-Anagrams-in-a-String/) | Sliding Window                                               |
-| 448    | Easy       | [Find All Numbers Disappeared in an Array](448-Find-All-Numbers-Disappeared-in-an-Array/) |                                                              |
+| 448    | Easy       | [Find All Numbers Disappeared in an Array](448-Find-All-Numbers-Disappeared-in-an-Array/) | Array                                                        |
 | 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
 | 473    | Medium     | [Matchsticks to Square](473-Matchsticks-to-Square/)          |                                                              |
+| 560    | Medium     | [Subarray Sum Equals K]                                      | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 617    | Easy       | [Merge Two Binary Trees](617-Merge-Two-Binary-Trees/)        | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
 | 739    | Medium     | [Daily Temperatures](739-Daily-Temperatures/)                | Stack                                                        |
