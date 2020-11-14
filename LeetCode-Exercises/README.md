@@ -18,6 +18,7 @@
 | 22     | Medium     | [Generate Parentheses](22-Generate-Parentheses/)             | Backtracking                                                 |
 | 26     | Easy       | [Remove Duplicates from Sorted Array](26-Remove-Duplicates-from-Sorted-Array/) | Two Pointers                                                 |
 | 28     | Easy       | [Implement strStr()](28-Implement-strStr()/)                 | Two Pointers                                                 |
+| 29     | Medium     | [Divide Two Integers](29-Divide-Two-Integers/)               |                                                              |
 | 33     | Medium     | [Search In Rotated Sorted Array](33-Search-In-Rotated-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 39     | Medium     | [Combination Sum](39-Combination-Sum/)                       | Backtracking                                                 |
@@ -81,7 +82,9 @@
 | 448    | Easy       | [Find All Numbers Disappeared in an Array](448-Find-All-Numbers-Disappeared-in-an-Array/) | Array                                                        |
 | 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
 | 473    | Medium     | [Matchsticks to Square](473-Matchsticks-to-Square/)          |                                                              |
-| 560    | Medium     | [Subarray Sum Equals K]                                      | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
+| 543    | Easy       | [Diameter of Binary Tree](543-Diameter-of-Binary-Tree/)      | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
+| 560    | Medium     | [Subarray Sum Equals K](560-Subarray-Sum-Equals-K/)          | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
+| 581    | Medium     | [Shortest Unsorted Continuous Subarray](581-Shortest-Unsorted-Continuous-Subarray/) | Array                                                        |
 | 617    | Easy       | [Merge Two Binary Trees](617-Merge-Two-Binary-Trees/)        | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
 | 739    | Medium     | [Daily Temperatures](739-Daily-Temperatures/)                | Stack                                                        |
