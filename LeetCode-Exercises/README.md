@@ -32,11 +32,13 @@
 | 62     | Medium     | [Unique Path](62-Unique-Path)                                | Combination                                                  |
 | 64     | Medium     | [Minimum Path Sum](64-Minimum-Path-Sum)                      | Dynamic Programming                                          |
 | 66     | Easy       | [Plus One](66-Plus-One/)                                     |                                                              |
+| 69     | Easy       | [Sqrt(x)](69-Sqrt(x)/)                                       | Binary Search                                                |
 | 70     | Easy       | [Climbing Stairs](70-Climbing-Stairs)                        | Fibonacci                                                    |
 | 75     | Medium     | [Sort-Colors](75-Sort-Colors)                                | Two Pointers                                                 |
 | 78     | Medium     | [Subset](78-Subsets/)                                        | Backtracking                                                 |
 | 77     | Medium     | [Combinations](77-Combinations/)                             | Backtracking                                                 |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Algorithms/Search/README.md/#Depth-First-Search) |
+| 88     | Easy       | [Merge Sorted Array](88-Merge-Sorted-Array/)                 | Two pointers                                                 |
 | 94     | Medium     | [Binary Tree Inorder Traversal](94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal), [Stack](../Algorithms/Abstract-Data-Type/Stack/) |
 | 96     | Medium     | [Unique Binary Search Trees](96-Unique-Bianray-Search-Trees/) | Dynamic Programming                                          |
 | 98     | Medium     | [Validate Binary Search Tree](98-Validate-Binary-Search-Tree) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
