@@ -21,6 +21,7 @@
 | 29     | Medium     | [Divide Two Integers](29-Divide-Two-Integers/)               |                                                              |
 | 33     | Medium     | [Search In Rotated Sorted Array](33-Search-In-Rotated-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
+| 36     | Medium     | [Valid Sudoku](36-Valid-Sudoku/)                             | [HashMap](../Algorithms/Abstract-Data-Type/Map/), Array      |
 | 39     | Medium     | [Combination Sum](39-Combination-Sum/)                       | Backtracking                                                 |
 | 46     | Medium     | [Permutations](46-Permutations/)                             | Backtracking                                                 |
 | 48     | Medium     | [Rotate Image](48-Rotate-Image)                              | Array                                                        |
