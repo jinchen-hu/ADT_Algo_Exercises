@@ -26,6 +26,7 @@
 | 46     | Medium     | [Permutations](46-Permutations/)                             | Backtracking                                                 |
 | 48     | Medium     | [Rotate Image](48-Rotate-Image)                              | Array                                                        |
 | 49     | Medium     | [Group Anagrams](49-Group-Anagrams)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
+| 50     | Medium     | [Pow(x, n)](50-Pow(x, n)/)                                   | Recursion                                                    |
 | 53     | Easy       | [Maximum Subarray](53-Maximum-Subarray/)                     | Dynamic Programming                                          |
 | 55     | Medium     | [Jump Game](55-Jump-Game/)                                   | Greedy                                                       |
 | 56     | Medium     | [Merge Intervals](56-Merge-Intervals)                        | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
@@ -47,6 +48,7 @@
 | 102    | Medium     | [Binary Tree Level Order Traversal](102-Binary-Tree-Level-Order-Traversal) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 104    | Easy       | [Maximum Depth Of Binary Tree](104-Maximum-Depth-Of-Binary-Tree/) | Recursion, [Tree](../Algorithms/Abstract-Data-Type/Tree/)    |
 | 105    | Medium     | [Construct Binary Tree from Preorder and Inorder Traversal](105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
+| 108    | Easy       | [Convert Sorted Array to Binary Search Tree](108-Convert-Sorted-Array-to-Binary-Search-Tree/) | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 112    | Easy       | [Path Sum](112-Path-Sum/)                                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 |        |            |                                                              |                                                              |
 | 114    | Medium     | [Flatten Binary Tree to Linked List](114-Flatten-Binary-Tree-to-Linked-List/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
