@@ -28,6 +28,7 @@
 | 49     | Medium     | [Group Anagrams](49-Group-Anagrams)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 50     | Medium     | [Pow(x, n)](50-Pow(x, n)/)                                   | Recursion                                                    |
 | 53     | Easy       | [Maximum Subarray](53-Maximum-Subarray/)                     | Dynamic Programming                                          |
+| 54     | Medium     | [Spiral Matrix](54-Spiral-Matrix/)                           | Array                                                        |
 | 55     | Medium     | [Jump Game](55-Jump-Game/)                                   | Greedy                                                       |
 | 56     | Medium     | [Merge Intervals](56-Merge-Intervals)                        | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
