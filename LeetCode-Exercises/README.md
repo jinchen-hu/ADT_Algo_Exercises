@@ -55,7 +55,9 @@
 |        |            |                                                              |                                                              |
 | 114    | Medium     | [Flatten Binary Tree to Linked List](114-Flatten-Binary-Tree-to-Linked-List/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 116    | Mediume    | [Populating Next Right Pointers in Each Node](116-Populating-Next-Right-Pointers-in-Each-Node/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
+| 118    | Easy       | [Pascal's Triangle](118-Pascal's-Triangle/)                  | Dynamic Programming                                          |
 | 121    | Easy       | [Best Time to Buy and Sell Stock](121-Best-Time-to-Buy-and-Sell-Stock/) | Dynamic Programming                                          |
+| 122    | Easy       | [Best Time to Buy and Sell Stock II](122-Best-Time-to-Buy-and-Sell-Stock-II/) | Greedy                                                       |
 | 125    | Easy       | [Valid Palindrome](125-Valid-Palindrome/)                    | Two Pointers                                                 |
 | 136    | Easy       | [Single Number](136-Single-Number)                           | Bitwise Operation                                            |
 | 138    | Medium     | [Copy List with Random Pointer](138-Copy-List-with-Random-Pointer/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
