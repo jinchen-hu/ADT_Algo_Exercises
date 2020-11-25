@@ -18,7 +18,7 @@
 | 22     | Medium     | [Generate Parentheses](22-Generate-Parentheses/)             | Backtracking                                                 |
 | 26     | Easy       | [Remove Duplicates from Sorted Array](26-Remove-Duplicates-from-Sorted-Array/) | Two Pointers                                                 |
 | 28     | Easy       | [Implement strStr()](28-Implement-strStr()/)                 | Two Pointers                                                 |
-| 29     | Medium     | [Divide Two Integers](29-Divide-Two-Integers/)               |                                                              |
+| 29     | Medium     | [Divide Two Integers](29-Divide-Two-Integers/)               | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 33     | Medium     | [Search In Rotated Sorted Array](33-Search-In-Rotated-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 36     | Medium     | [Valid Sudoku](36-Valid-Sudoku/)                             | [HashMap](../Algorithms/Abstract-Data-Type/Map/), Array      |
@@ -27,14 +27,14 @@
 | 48     | Medium     | [Rotate Image](48-Rotate-Image)                              | Array                                                        |
 | 49     | Medium     | [Group Anagrams](49-Group-Anagrams)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 50     | Medium     | [Pow(x, n)](50-Pow(x, n)/)                                   | Recursion                                                    |
-| 53     | Easy       | [Maximum Subarray](53-Maximum-Subarray/)                     | Dynamic Programming                                          |
+| 53     | Easy       | [Maximum Subarray](53-Maximum-Subarray/)                     | DP                                                           |
 | 54     | Medium     | [Spiral Matrix](54-Spiral-Matrix/)                           | Array                                                        |
 | 55     | Medium     | [Jump Game](55-Jump-Game/)                                   | Greedy                                                       |
 | 56     | Medium     | [Merge Intervals](56-Merge-Intervals)                        | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
 | 62     | Medium     | [Unique Path](62-Unique-Path)                                | Combination                                                  |
-| 64     | Medium     | [Minimum Path Sum](64-Minimum-Path-Sum)                      | Dynamic Programming                                          |
-| 66     | Easy       | [Plus One](66-Plus-One/)                                     |                                                              |
+| 64     | Medium     | [Minimum Path Sum](64-Minimum-Path-Sum)                      | DP                                                           |
+| 66     | Easy       | [Plus One](66-Plus-One/)                                     | Array                                                        |
 | 69     | Easy       | [Sqrt(x)](69-Sqrt(x)/)                                       | Binary Search                                                |
 | 70     | Easy       | [Climbing Stairs](70-Climbing-Stairs)                        | Fibonacci                                                    |
 | 75     | Medium     | [Sort-Colors](75-Sort-Colors)                                | Two Pointers                                                 |
@@ -52,23 +52,24 @@
 | 105    | Medium     | [Construct Binary Tree from Preorder and Inorder Traversal](105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 108    | Easy       | [Convert Sorted Array to Binary Search Tree](108-Convert-Sorted-Array-to-Binary-Search-Tree/) | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 112    | Easy       | [Path Sum](112-Path-Sum/)                                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
-|        |            |                                                              |                                                              |
 | 114    | Medium     | [Flatten Binary Tree to Linked List](114-Flatten-Binary-Tree-to-Linked-List/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 116    | Mediume    | [Populating Next Right Pointers in Each Node](116-Populating-Next-Right-Pointers-in-Each-Node/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
-| 118    | Easy       | [Pascal's Triangle](118-Pascal's-Triangle/)                  | Dynamic Programming                                          |
-| 121    | Easy       | [Best Time to Buy and Sell Stock](121-Best-Time-to-Buy-and-Sell-Stock/) | Dynamic Programming                                          |
+| 118    | Easy       | [Pascal's Triangle](118-Pascal's-Triangle/)                  | DP                                                           |
+| 121    | Easy       | [Best Time to Buy and Sell Stock](121-Best-Time-to-Buy-and-Sell-Stock/) | DP                                                           |
 | 122    | Easy       | [Best Time to Buy and Sell Stock II](122-Best-Time-to-Buy-and-Sell-Stock-II/) | Greedy                                                       |
 | 125    | Easy       | [Valid Palindrome](125-Valid-Palindrome/)                    | Two Pointers                                                 |
+| 130    | Medium     | [Surrounded Regions](130-Surrounded-Regions/)                | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
+| 131    | Medium     | [Palindrome Partitioning](131-Palindrome-Partitioning/)      | Backtracking, DP                                             |
 | 136    | Easy       | [Single Number](136-Single-Number)                           | Bitwise Operation                                            |
 | 138    | Medium     | [Copy List with Random Pointer](138-Copy-List-with-Random-Pointer/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
-| 139    | Medium     | [Word Break](139-Word-Break/)                                | Dynamic Programming                                          |
+| 139    | Medium     | [Word Break](139-Word-Break/)                                | DP                                                           |
 | 141    | Easy       | [Linked List Cycle](141-Linked-List-Cycle/)                  | [HashSet](../Algorithms/Abstract-Data-Type/Set/), Two Pointers |
-| 142    | Medium     | [Linked List Cycle II](142-Linked-List-Cycle-II/)            |                                                              |
+| 142    | Medium     | [Linked List Cycle II](142-Linked-List-Cycle-II/)            | Two Pointers                                                 |
 | 146    | Medium     | [LRU Cache](146-LRU-Cache/)                                  | Doubly LinkedList, [HashMap](../Algorithms/Abstract-Data-Type/Map/) |
 | 155    | Easy       | [Min Stack](155-Min-Stack/)                                  | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
 | 160    | Easy       | [Intersection of Two Linked Lists](160-Intersection-of-Two-Linked-Lists/) | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
-| 169    | Easy       | [Majority Element](169-Majority-Element/)                    |                                                              |
-| 198    | Easy       | [House-Robber](198-House-Robber/)                            | Dynamic Programming                                          |
+| 169    | Easy       | [Majority Element](169-Majority-Element/)                    | Divide and Conquer                                           |
+| 198    | Easy       | [House-Robber](198-House-Robber/)                            | DP                                                           |
 | 200    | Medium     | [Number of Islands](200-Number-of-Islands/)                  | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 206    | Easy       | [Reverse Linked List](206-Reverse-Linked-List)               | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 207    | Medium     | [Course Schedule](207-Course-Schedule/)                      | [DFS](../Algorithms/Search/README.md/#Depth-First-Search), Topological Sorting |
@@ -84,14 +85,14 @@
 | 283    | Easy       | [Move Zeroes](283-Move-Zeroes/)                              | Two pointers                                                 |
 | 287    | Medium     | [Find the Duplicate Number](287-Find-the-Duplicate-Number/)  | Two pointers                                                 |
 | 337    | Medium     | [House Robber III](337-House-Robber-III/)                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
-| 347    | Medium     | [Top K Frequent Elements](347-Top-K-Frequent-Elements/)      |                                                              |
+| 347    | Medium     | [Top K Frequent Elements](347-Top-K-Frequent-Elements/)      | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 394    | Medium     | [Decode String](394-Decode-String/)                          | Stack                                                        |
 | 437    | Medium     | [Path Sum III](437-Path-Sum-III/)                            | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 438    | Medium     | [Find All Anagrams in a String](438-Find-All-Anagrams-in-a-String/) | Sliding Window                                               |
 | 448    | Easy       | [Find All Numbers Disappeared in an Array](448-Find-All-Numbers-Disappeared-in-an-Array/) | Array                                                        |
 | 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
-| 473    | Medium     | [Matchsticks to Square](473-Matchsticks-to-Square/)          |                                                              |
+| 473    | Medium     | [Matchsticks to Square](473-Matchsticks-to-Square/)          | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 543    | Easy       | [Diameter of Binary Tree](543-Diameter-of-Binary-Tree/)      | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 560    | Medium     | [Subarray Sum Equals K](560-Subarray-Sum-Equals-K/)          | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 581    | Medium     | [Shortest Unsorted Continuous Subarray](581-Shortest-Unsorted-Continuous-Subarray/) | Array                                                        |
