@@ -70,6 +70,7 @@
 | 160    | Easy       | [Intersection of Two Linked Lists](160-Intersection-of-Two-Linked-Lists/) | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 166    | Medium     | [Fraction to Recurring Decimal](166-Fraction-to-Recurring-Decimal/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 169    | Easy       | [Majority Element](169-Majority-Element/)                    | Divide and Conquer                                           |
+| 179    | Medium     | [Largest Number](179-Largest-Number/)                        | Comparator                                                   |
 | 198    | Easy       | [House-Robber](198-House-Robber/)                            | DP                                                           |
 | 200    | Medium     | [Number of Islands](200-Number-of-Islands/)                  | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 206    | Easy       | [Reverse Linked List](206-Reverse-Linked-List)               | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
