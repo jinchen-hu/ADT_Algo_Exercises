@@ -14,7 +14,7 @@
 | 17     | Medium     | [Letter Combinations of a Phone Number](17-Letter-Combinations-Phone-Number) | Backtracking                                                 |
 | 19     | Meduim     | [Remove Nth Node form End of List](19-Remove-Nth-Node-From-End-Of-List) | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
 | 20     | Easy       | [Valid Parentheses](20-Valid-Parentheses/)                   | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
-| 21     | Easy       | [Merge Two Sorted Lists](21-Merge-Two-Sorted-Lists/)         | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dunmmy head |
+| 21     | Easy       | [Merge Two Sorted Lists](21-Merge-Two-Sorted-Lists/)         | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
 | 22     | Medium     | [Generate Parentheses](22-Generate-Parentheses/)             | Backtracking                                                 |
 | 26     | Easy       | [Remove Duplicates from Sorted Array](26-Remove-Duplicates-from-Sorted-Array/) | Two Pointers                                                 |
 | 28     | Easy       | [Implement strStr()](28-Implement-strStr()/)                 | Two Pointers                                                 |
@@ -53,11 +53,12 @@
 | 108    | Easy       | [Convert Sorted Array to Binary Search Tree](108-Convert-Sorted-Array-to-Binary-Search-Tree/) | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 112    | Easy       | [Path Sum](112-Path-Sum/)                                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 114    | Medium     | [Flatten Binary Tree to Linked List](114-Flatten-Binary-Tree-to-Linked-List/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
-| 116    | Mediume    | [Populating Next Right Pointers in Each Node](116-Populating-Next-Right-Pointers-in-Each-Node/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
+| 116    | Medium     | [Populating Next Right Pointers in Each Node](116-Populating-Next-Right-Pointers-in-Each-Node/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 118    | Easy       | [Pascal's Triangle](118-Pascal's-Triangle/)                  | DP                                                           |
 | 121    | Easy       | [Best Time to Buy and Sell Stock](121-Best-Time-to-Buy-and-Sell-Stock/) | DP                                                           |
 | 122    | Easy       | [Best Time to Buy and Sell Stock II](122-Best-Time-to-Buy-and-Sell-Stock-II/) | Greedy                                                       |
 | 125    | Easy       | [Valid Palindrome](125-Valid-Palindrome/)                    | Two Pointers                                                 |
+| 127    | Medium     | [Word Ladder](127-Word-Ladder/)                              | BFS                                                          |
 | 130    | Medium     | [Surrounded Regions](130-Surrounded-Regions/)                | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
 | 131    | Medium     | [Palindrome Partitioning](131-Palindrome-Partitioning/)      | Backtracking, DP                                             |
 | 136    | Easy       | [Single Number](136-Single-Number)                           | Bitwise Operation                                            |
@@ -74,14 +75,18 @@
 | 189    | Medium     | [Rotate Array](189-Rotate-Array/)                            | Array                                                        |
 | 198    | Easy       | [House-Robber](198-House-Robber/)                            | DP                                                           |
 | 200    | Medium     | [Number of Islands](200-Number-of-Islands/)                  | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
-| 206    | Easy       | [Reverse Linked List](206-Reverse-Linked-List)               | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
+| 206    | Easy       | [Reverse Linked List](206-Reverse-Linked-List)               | [Linked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 207    | Medium     | [Course Schedule](207-Course-Schedule/)                      | [DFS](../Algorithms/Search/README.md/#Depth-First-Search), Topological Sorting |
 | 208    | Medium     | [Implement Trie (Prefix Tree)](208-Implement-Trie-(Prefix-Tree)/) | Design                                                       |
+| 210    | Medium     | [Course Schedule II](210-Course-Schedule-II/)                | [DFS](../Algorithms/Search/README.md/#Depth-First-Search), Topological Sorting |
 | 215    | Medium     | [Kth Largest Element in an Array](215-Kth-Largest-Element-in-an-Array/) | Divide and Conquer                                           |
+| 217    | Easy       | [Contains Duplicate](217-Contains-Duplicate/)                | Array, [HashSet](../Algorithms/Abstract-Data-Type/Set/)      |
 | 226    | Easy       | [Invert Binary Tree](226-Invert-Binary-Tree/)                | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
+| 227    | Medium     | [Basic Calculator II](227-Basic-Calculator-II/)              | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
 | 230    | Medium     | [Kth Smallest Element in a BST](230-Kth-Smallest-Element-in-a-BST/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
 | 234    | Medium     | [Palindrome Linked List](234-Palindrome-Linked-List)         | Two pointers                                                 |
 | 236    | Medium     | [Lowest Common Ancestor of a Binary Tree](236-Lowest-Common-Ancestor-of-a-Binary-Tree/) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal)        |
+| 237    | Easy       | [Delete Node in a Linked List](237-Delete-Node-in-a-Linked-List/) | [Linked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 238    | Medium     | [Product of Array Except Self](238-Product-of-Array-Except-Self/) | Array                                                        |
 | 240    | Medium     | [Search a 2D Matrix II](240-Search-a-2D-Matrix-II/)          | Divide and Conquer                                           |
 | 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |

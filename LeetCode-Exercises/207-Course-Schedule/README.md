@@ -117,7 +117,8 @@ class Solution {
         marked = new boolean[N];
         onStack = new boolean[N];
         List<Integer>[] graph = (List<Integer>[]) new LinkedList[N];
-        for (int i = 0; i < N; i++) graph[i] = new LinkedList<>();
+        for (int i = 0; i < N; i++) 
+            graph[i] = new LinkedList<>();
         for (int[] edge : edges) {
             graph[edge[1]].add(edge[0]);
         }

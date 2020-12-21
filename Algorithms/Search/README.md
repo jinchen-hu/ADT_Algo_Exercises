@@ -299,7 +299,7 @@ Time complexity: O(mlogn)
 
 ## Topological Sorting
 
-**Topological Sorting** is a linear odering of vertices such that for every directed graph edge u-v, vertex u comes before v in the ordering. This only applies to Directed Acyclic Graph
+**Topological Sorting** is a linear ordering of vertices such that for every directed graph edge u-v, vertex u comes before v in the ordering. This only applies to Directed Acyclic Graph
 
 #### Example
 
