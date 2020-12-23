@@ -6,7 +6,7 @@ React is a declarative, efficient, and flexible JavaScript library for building 
 
 * Render a React element into the DOM in the supplied container and return a reference to the component, or null for stateless components
   * if the element was previously rendered into container, this will perform an update on it and only mutate the DOM as necessary to reflect the latest React element
-  * if the optimal callback is provides, it will be executed after the componet is redered or updated
+  * if the optimal callback is provides, it will be executed after the component is rendered or updated
 
 ```react
 ReactDOM.render(element, container[, callback])
@@ -43,3 +43,35 @@ ReactDOM.render(
 );
 ```
 
+### Inline Styling
+
+* JSX
+
+```jsx
+<button style={{backgroundColor:'blue', color: 'white'}}>Submit</button>
+```
+
+* HTML
+
+```html
+<div style="background-color:red; color: white;"></div>
+```
+
+
+
+## Component
+
+A component is a
+
+1. function, or
+2. class
+
+that produces HTML using **JSX** to show it to the user, and handles feedback from the user with **Event Handles**
+
+### Component nesting
+
+A component can be shown inside of another
+
+### Component reusability
+
+### Component configuration

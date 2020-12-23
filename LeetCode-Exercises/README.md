@@ -92,8 +92,10 @@
 | 242    | Easy       | [Valid-Anagram](242-Valid-Anagram/)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 283    | Easy       | [Move Zeroes](283-Move-Zeroes/)                              | Two pointers                                                 |
 | 287    | Medium     | [Find the Duplicate Number](287-Find-the-Duplicate-Number/)  | Two pointers                                                 |
+| 326    | Easy       | [Power of Three](326-Power-of-Three/)                        | Math                                                         |
 | 328    | Medium     | [Odd Even Linked List](328-Odd-Even-Linked-List/)            | [Linked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 337    | Medium     | [House Robber III](337-House-Robber-III/)                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
+| 344    | Easy       | [Reverse String](344-Reverse-String/)                        | Two pointers                                                 |
 | 347    | Medium     | [Top K Frequent Elements](347-Top-K-Frequent-Elements/)      | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 394    | Medium     | [Decode String](394-Decode-String/)                          | Stack                                                        |
