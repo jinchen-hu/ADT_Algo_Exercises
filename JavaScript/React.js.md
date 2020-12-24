@@ -68,10 +68,61 @@ A component is a
 
 that produces HTML using **JSX** to show it to the user, and handles feedback from the user with **Event Handles**
 
+
+
+![react-now](..\common\react-now.png)
+
 ### Component nesting
 
 A component can be shown inside of another
 
-### Component reusability
+### Create a reusable, configurable component
 
-### Component configuration
+1. Identify the JSX that appears to be duplicated
+2. What is the purpose of that block of JSX? Think of a descriptive name for what is does
+3. Create a new file to house this new component - it should have the same name as the component
+4. Create a new component in the new file, paste the JSX into it
+5. Make the new component configurable by using React's 'props' system
+
+### Props system
+
+System for passing data from a parent component to a child component to customize or configure a child component
+
+### Class component
+
+* Must be a JavaScript Class
+
+* Must extend React.Component
+
+* Must define a 'render' method that returns some amount of JSX
+
+  ```react
+  class App extends React.Component {
+    constructor(props) {
+      super(props);
+  
+      this.state = { lat: null };
+  
+      window.navigator.geolocation.getCurrentPosition(
+        (position) => {
+          this.setState({ lat: position.coords.latitude });
+        },
+        (err) => console.log(err)
+      );
+    }
+    // must be overridden
+    render() {
+      return <div>Latitude: {this.state.lat} </div>;
+    }
+  }
+  ```
+
+  
+
+### State
+
+* Only usable with class components (technically can be used with functional components using 'hook')
+* 'State' is a JS object that contains data relevant to a component
+* Updating 'state' on a component causes the component to instantly rerender
+* State must be initialized when a component is created
+* State can only be updated using the function 'setState                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  '

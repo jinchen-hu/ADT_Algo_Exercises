@@ -95,8 +95,10 @@
 | 326    | Easy       | [Power of Three](326-Power-of-Three/)                        | Math                                                         |
 | 328    | Medium     | [Odd Even Linked List](328-Odd-Even-Linked-List/)            | [Linked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 337    | Medium     | [House Robber III](337-House-Robber-III/)                    | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
+| 341    | Medium     | [Flatten Nested List Iterator](341-Flatten-Nested-List-Iterator/) | List                                                         |
 | 344    | Easy       | [Reverse String](344-Reverse-String/)                        | Two pointers                                                 |
 | 347    | Medium     | [Top K Frequent Elements](347-Top-K-Frequent-Elements/)      | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
+| 378    | Medium     | [Kth Smallest Element in a Sorted Matrix](378-Kth-Smallest-Element-in-a-Sorted-Matrix/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 394    | Medium     | [Decode String](394-Decode-String/)                          | Stack                                                        |
 | 437    | Medium     | [Path Sum III](437-Path-Sum-III/)                            | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
