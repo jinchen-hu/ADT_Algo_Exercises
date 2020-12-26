@@ -98,9 +98,12 @@
 | 341    | Medium     | [Flatten Nested List Iterator](341-Flatten-Nested-List-Iterator/) | List                                                         |
 | 344    | Easy       | [Reverse String](344-Reverse-String/)                        | Two pointers                                                 |
 | 347    | Medium     | [Top K Frequent Elements](347-Top-K-Frequent-Elements/)      | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
+| 350    | Easy       | [Intersection of Two Arrays II](350-Intersection-of-Two-Arrays-II/) | Two pointers                                                 |
 | 378    | Medium     | [Kth Smallest Element in a Sorted Matrix](378-Kth-Smallest-Element-in-a-Sorted-Matrix/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
+| 380    | Medium     | [Insert Delete GetRandom O(1)](380-Insert-Delete-GetRandom-O(1)/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 394    | Medium     | [Decode String](394-Decode-String/)                          | Stack                                                        |
+| 412    | Easy       | [Fizz Buzz](412-Fizz-Buzz/)                                  |                                                              |
 | 437    | Medium     | [Path Sum III](437-Path-Sum-III/)                            | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 438    | Medium     | [Find All Anagrams in a String](438-Find-All-Anagrams-in-a-String/) | Sliding Window                                               |
 | 448    | Easy       | [Find All Numbers Disappeared in an Array](448-Find-All-Numbers-Disappeared-in-an-Array/) | Array                                                        |

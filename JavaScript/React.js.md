@@ -94,7 +94,7 @@ System for passing data from a parent component to a child component to customiz
 
 * Must extend React.Component
 
-* Must define a 'render' method that returns some amount of JSX
+* Must define a 'render()' method that returns some amount of JSX
 
   ```react
   class App extends React.Component {
@@ -125,4 +125,23 @@ System for passing data from a parent component to a child component to customiz
 * 'State' is a JS object that contains data relevant to a component
 * Updating 'state' on a component causes the component to instantly rerender
 * State must be initialized when a component is created
-* State can only be updated using the function 'setState                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  '
+* State can only be updated using the function 'setState()'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+
+
+### Component lifecycle
+
+* componentDidMount() --> good place to do data loading
+* componentDidUpdate() --> good place to do more data loading when state/props change
+* componentDidUnmount() --> good place to cleanup (especially for non-React stuff)
+
+
+
+### Controlled elements
+
+1. User types in input
+2. Callback gets involved
+3. We call setState() with the new value
+4. Component re-renders
+5. Input is told what its value is (coming from state)
+
