@@ -145,3 +145,9 @@ System for passing data from a parent component to a child component to customiz
 4. Component re-renders
 5. Input is told what its value is (coming from state)
 
+
+
+## React Refs
+
+* Give access to a single DOM element
+* We create refs in the constructor, assign them to instance variables, then pass to a particular JSX element as props

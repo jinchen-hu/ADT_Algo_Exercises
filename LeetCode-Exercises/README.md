@@ -109,6 +109,7 @@
 | 448    | Easy       | [Find All Numbers Disappeared in an Array](448-Find-All-Numbers-Disappeared-in-an-Array/) | Array                                                        |
 | 461    | Easy       | [Hamming Distance](461-Hamming-Distance/)                    | Bitwise Operation                                            |
 | 473    | Medium     | [Matchsticks to Square](473-Matchsticks-to-Square/)          | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
+| 485    | Easy       | [Max Consecutive Ones](485-Max-Consecutive-Ones/)            | Array                                                        |
 | 543    | Easy       | [Diameter of Binary Tree](543-Diameter-of-Binary-Tree/)      | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 560    | Medium     | [Subarray Sum Equals K](560-Subarray-Sum-Equals-K/)          | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 581    | Medium     | [Shortest Unsorted Continuous Subarray](581-Shortest-Unsorted-Continuous-Subarray/) | Array                                                        |
@@ -117,5 +118,7 @@
 | 739    | Medium     | [Daily Temperatures](739-Daily-Temperatures/)                | Stack                                                        |
 | 771    | Easy       | [Jewels-And-Stones](771-Jewels-And-Stones/)                  | String                                                       |
 | 938    | Easy       | [Range Sum Of BST](938-Range-Sum-Of-BST/)                    | [BST](../Algorithm/Abstract-Data-Type/Tree/Binary-Search-Tree.md) |
+| 977    | Easy       | [Squares of a Sorted Array](977-Squares-of-a-Sorted-Array/)  | Array                                                        |
+| 1295   | Easy       | [Find Numbers with Even Number of Digits](1295-Find-Numbers-with-Even-Number-of-Digits/) | Array                                                        |
 | 1512   | Easy       | [Number of Good Pairs](1512-Number-of-Good-Pairs/)           | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 
