@@ -151,3 +151,12 @@ System for passing data from a parent component to a child component to customiz
 
 * Give access to a single DOM element
 * We create refs in the constructor, assign them to instance variables, then pass to a particular JSX element as props
+
+## Hook System
+
+* useState
+  * function that lets you use state in a functional component
+* useEffect
+  * function that lets you use something like lifecycle methods in a functional component
+* useRef
+  * function that lets you create a 'ref' in a function component

@@ -17,6 +17,7 @@
 | 21     | Easy       | [Merge Two Sorted Lists](21-Merge-Two-Sorted-Lists/)         | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
 | 22     | Medium     | [Generate Parentheses](22-Generate-Parentheses/)             | Backtracking                                                 |
 | 26     | Easy       | [Remove Duplicates from Sorted Array](26-Remove-Duplicates-from-Sorted-Array/) | Two Pointers                                                 |
+| 27     | Easy       | [Remove Element](27-Remove-Element/)                         | Array                                                        |
 | 28     | Easy       | [Implement strStr()](28-Implement-strStr()/)                 | Two Pointers                                                 |
 | 29     | Medium     | [Divide Two Integers](29-Divide-Two-Integers/)               | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 33     | Medium     | [Search In Rotated Sorted Array](33-Search-In-Rotated-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
@@ -118,7 +119,10 @@
 | 739    | Medium     | [Daily Temperatures](739-Daily-Temperatures/)                | Stack                                                        |
 | 771    | Easy       | [Jewels-And-Stones](771-Jewels-And-Stones/)                  | String                                                       |
 | 938    | Easy       | [Range Sum Of BST](938-Range-Sum-Of-BST/)                    | [BST](../Algorithm/Abstract-Data-Type/Tree/Binary-Search-Tree.md) |
+| 941    | Easy       | [Valid Mountain Array](941-Valid-Mountain-Array/)            | Array                                                        |
 | 977    | Easy       | [Squares of a Sorted Array](977-Squares-of-a-Sorted-Array/)  | Array                                                        |
+| 1089   | Easy       | [Duplicate Zeros](1089-Duplicate-Zeros/)                     | Array                                                        |
 | 1295   | Easy       | [Find Numbers with Even Number of Digits](1295-Find-Numbers-with-Even-Number-of-Digits/) | Array                                                        |
+| 1346   | Easy       | [Check If N and Its Double Exist](1346-Check-If-N-and-Its-Double-Exist/) | Array, [HashSet](../Algorithms/Abstract-Data-Type/Set/)      |
 | 1512   | Easy       | [Number of Good Pairs](1512-Number-of-Good-Pairs/)           | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 
