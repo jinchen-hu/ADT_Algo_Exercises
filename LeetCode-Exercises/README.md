@@ -105,6 +105,7 @@
 | 387    | Easy       | [First Unique Character in a String](387-First-Unique-Character-In-String/) | [HashMap](../Algorithms/Abstract-Data-Type/Map/), ASCII      |
 | 394    | Medium     | [Decode String](394-Decode-String/)                          | Stack                                                        |
 | 412    | Easy       | [Fizz Buzz](412-Fizz-Buzz/)                                  |                                                              |
+| 414    | Easy       | [Third Maximum Number](414-Third-Maximum-Number/)            | Array                                                        |
 | 437    | Medium     | [Path Sum III](437-Path-Sum-III/)                            | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
 | 438    | Medium     | [Find All Anagrams in a String](438-Find-All-Anagrams-in-a-String/) | Sliding Window                                               |
 | 448    | Easy       | [Find All Numbers Disappeared in an Array](448-Find-All-Numbers-Disappeared-in-an-Array/) | Array                                                        |
@@ -122,6 +123,7 @@
 | 938    | Easy       | [Range Sum Of BST](938-Range-Sum-Of-BST/)                    | [BST](../Algorithm/Abstract-Data-Type/Tree/Binary-Search-Tree.md) |
 | 941    | Easy       | [Valid Mountain Array](941-Valid-Mountain-Array/)            | Array                                                        |
 | 977    | Easy       | [Squares of a Sorted Array](977-Squares-of-a-Sorted-Array/)  | Array                                                        |
+| 1051   | Easy       | [Height Checker](1051-Height-Checker/)                       | Array                                                        |
 | 1089   | Easy       | [Duplicate Zeros](1089-Duplicate-Zeros/)                     | Array                                                        |
 | 1229   | Easy       | [Replace Elements with Greatest Element on Right Side](1229-Replace-Elements-with-Greatest-Element-on-Right-Side/) | Array                                                        |
 | 1295   | Easy       | [Find Numbers with Even Number of Digits](1295-Find-Numbers-with-Even-Number-of-Digits/) | Array                                                        |
