@@ -118,11 +118,14 @@
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
 | 739    | Medium     | [Daily Temperatures](739-Daily-Temperatures/)                | Stack                                                        |
 | 771    | Easy       | [Jewels-And-Stones](771-Jewels-And-Stones/)                  | String                                                       |
+| 905    | Easy       | [Sort Array By Parity](905-Sort-Array-By-Parity/)            | Array                                                        |
 | 938    | Easy       | [Range Sum Of BST](938-Range-Sum-Of-BST/)                    | [BST](../Algorithm/Abstract-Data-Type/Tree/Binary-Search-Tree.md) |
 | 941    | Easy       | [Valid Mountain Array](941-Valid-Mountain-Array/)            | Array                                                        |
 | 977    | Easy       | [Squares of a Sorted Array](977-Squares-of-a-Sorted-Array/)  | Array                                                        |
 | 1089   | Easy       | [Duplicate Zeros](1089-Duplicate-Zeros/)                     | Array                                                        |
+| 1229   | Easy       | [Replace Elements with Greatest Element on Right Side](1229-Replace-Elements-with-Greatest-Element-on-Right-Side/) | Array                                                        |
 | 1295   | Easy       | [Find Numbers with Even Number of Digits](1295-Find-Numbers-with-Even-Number-of-Digits/) | Array                                                        |
 | 1346   | Easy       | [Check If N and Its Double Exist](1346-Check-If-N-and-Its-Double-Exist/) | Array, [HashSet](../Algorithms/Abstract-Data-Type/Set/)      |
 | 1512   | Easy       | [Number of Good Pairs](1512-Number-of-Good-Pairs/)           | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
+| 1640   | Easy       | [Check Array Formation Through Concatenation](1640-Check-Array-Formation-Through-Concatenation/) | Array, [HashMap](../Algorithms/Abstract-Data-Type/Map/)      |
 

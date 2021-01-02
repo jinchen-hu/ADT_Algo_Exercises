@@ -155,8 +155,66 @@ System for passing data from a parent component to a child component to customiz
 ## Hook System
 
 * useState
+
   * function that lets you use state in a functional component
+  * call useState() multiple times if there are more than one state values
+  * the component will re-render anytime we call setters -- execute all codes except useState() functions
+
+  ```react
+  // [0] --> reference of the state that we are going to keep track of
+  // [1] --> function we call to update the state
+  // useState(initialState)
+  const [activeIndex, setActiveIndex] = useState(null);
+  
+  // equivalent to the class component
+  state = {activeIndex: null} //initialization
+  useState(null);
+  
+  this.state.activeIndex  // reference
+  ativeIndex;
+  
+  this.setState({activeIndex: 10}) // update
+  setActiveIndex(10);
+  
+  // Equivalent
+  const arr = useState(null);
+  activeIndex = arr[0];  
+  setActiveIndex = arr[1]; 
+  ```
+
 * useEffect
   * function that lets you use something like lifecycle methods in a functional component
+  
+  * we can configure the hook to run some codes automatically in one of three scenarios
+    1. when the component is rendered for the first time only
+    2. when the component is rendered for the first time and whenever it re-renders
+    3. when the component is rendered for the first time and, whenever it re-renders and some piece of data has changed
+    
+  * first argument: the arrow function
+  
+    * if the function has a cleanup function with return statement, it will return the value returned in the last render
+  
+    ```react
+    count = 0;
+    useEffect(()=>{
+    	console.log('initial render and each re-render');
+    	return() => {console.log(count)}
+    });
+    setCount(count+1);
+    // initial: initial render and each re-render
+    // first re-render: 0 initial render and each re-render
+    // second re-render: 1 initial render and each re-render
+    ```
+  
+  * second argument
+    * [] --> empty array
+      * run at initial render
+    * nothing
+      * run at initial render
+      * run after each re-render
+    * [data] --> nonempty array
+      * run at initial render
+      * run after every re-render if data has changed since last render
 * useRef
+  
   * function that lets you create a 'ref' in a function component

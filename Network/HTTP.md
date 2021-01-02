@@ -33,6 +33,10 @@
 * Basic Syntax: type/sub-type
 * Example: text/html  text/plain application/json
 
-## Client Tppl
+## Client Tpp
 
 Send HTTP requests to the REST API such as curl, Postman
+
+## Payload
+
+The actual intended message/information
