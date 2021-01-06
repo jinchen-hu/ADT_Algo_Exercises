@@ -31,7 +31,7 @@
 | 53     | Easy       | [Maximum Subarray](53-Maximum-Subarray/)                     | DP                                                           |
 | 54     | Medium     | [Spiral Matrix](54-Spiral-Matrix/)                           | Array                                                        |
 | 55     | Medium     | [Jump Game](55-Jump-Game/)                                   | Greedy                                                       |
-| 56     | Medium     | [Merge Intervals](56-Merge-Intervals)                        | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
+| 56     | Medium     | [Merge Intervals](56-Merge-Intervals)                        | [Linked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 58     | Easy       | [Length of Last Word](58-Length-Of-Last-Word/)               | String                                                       |
 | 62     | Medium     | [Unique Path](62-Unique-Path)                                | Combination                                                  |
 | 64     | Medium     | [Minimum Path Sum](64-Minimum-Path-Sum)                      | DP                                                           |
@@ -42,6 +42,7 @@
 | 78     | Medium     | [Subset](78-Subsets/)                                        | Backtracking                                                 |
 | 77     | Medium     | [Combinations](77-Combinations/)                             | Backtracking                                                 |
 | 79     | Medium     | [Word Search](79-Word-Search/)                               | Backtracking, [DFS](../Algorithms/Search/README.md/#Depth-First-Search) |
+| 82     | Medium     | [Remove Duplicates from Sorted List II](82-Remove-Duplicates-from-Sorted-List-II/) | Dummy head                                                   |
 | 88     | Easy       | [Merge Sorted Array](88-Merge-Sorted-Array/)                 | Two pointers                                                 |
 | 94     | Medium     | [Binary Tree Inorder Traversal](94-Binary-Tree-Inorder-Traversal) | [Tree Traversal](../Algorithm/Search/#Tree-Traversal), [Stack](../Algorithms/Abstract-Data-Type/Stack/) |
 | 96     | Medium     | [Unique Binary Search Trees](96-Unique-Bianray-Search-Trees/) | Dynamic Programming                                          |
@@ -116,6 +117,7 @@
 | 560    | Medium     | [Subarray Sum Equals K](560-Subarray-Sum-Equals-K/)          | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 581    | Medium     | [Shortest Unsorted Continuous Subarray](581-Shortest-Unsorted-Continuous-Subarray/) | Array                                                        |
 | 617    | Easy       | [Merge Two Binary Trees](617-Merge-Two-Binary-Trees/)        | [Tree](../Algorithms/Abstract-Data-Type/Tree/)               |
+| 707    | Medium     | [Design Linked List](707-Design-Linked-List/)                | [Linked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 709    | Easy       | [To Lower Case](709-To-Lower-Case/)                          | String, ASCII                                                |
 | 739    | Medium     | [Daily Temperatures](739-Daily-Temperatures/)                | Stack                                                        |
 | 771    | Easy       | [Jewels-And-Stones](771-Jewels-And-Stones/)                  | String                                                       |

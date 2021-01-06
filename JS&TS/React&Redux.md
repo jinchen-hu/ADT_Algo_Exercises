@@ -218,3 +218,37 @@ System for passing data from a parent component to a child component to customiz
 * useRef
   
   * function that lets you create a 'ref' in a function component
+
+### Custom Hooks
+
+* best way to create reusable code in a React project
+* created by extracting hook-related code out of a function component
+* custom hooks always make use of at least one primitive hook internally
+* each custom hook should have one purpose
+* date-fetching is a great thing to try to make reusable
+
+#### Process for creating reusable hooks
+
+1. identify each line of code related to some single purpose
+2. identify the inputs to that code
+3. identify the outputs to that code
+4. extract all of the code into a separate function, receiving the inputs as arguments, and returning the outputs
+
+---
+
+# Redux
+
+Redux is a
+
+* state management library
+* makes creating complex applications easier
+* not required to create a React app
+* not explicitly designed to work with React
+
+## Redux Cycle
+
+1. Action Creator -- to change state of the app, will produce an action
+2. Action -- get fed to
+3. Dispatch -- forwards action to
+4. Reducers -- create new
+5. State -- wait until next update
