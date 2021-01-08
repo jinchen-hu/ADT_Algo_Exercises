@@ -133,4 +133,5 @@
 | 1346   | Easy       | [Check If N and Its Double Exist](1346-Check-If-N-and-Its-Double-Exist/) | Array, [HashSet](../Algorithms/Abstract-Data-Type/Set/)      |
 | 1512   | Easy       | [Number of Good Pairs](1512-Number-of-Good-Pairs/)           | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
 | 1640   | Easy       | [Check Array Formation Through Concatenation](1640-Check-Array-Formation-Through-Concatenation/) | Array, [HashMap](../Algorithms/Abstract-Data-Type/Map/)      |
+| 1662   | Easy       | [Check If Two String Arrays are Equivalent](1662-Check-If-Two-String-Arrays-are-Equivalent/) | Array                                                        |
 
