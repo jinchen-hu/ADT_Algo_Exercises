@@ -1,6 +1,6 @@
 # [Spring 5](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/)
 
-![springframework](/Users/luke/github-workplace/ADT_Algo_Exercises/common/springframework.png)
+![springframework](../../common/springframework.png)
 
 ## Goals of Spring
 
@@ -38,7 +38,7 @@
   * Setter Injection
   * auto-wiring
     * Spring will look for a class that matched the property, and inject it automatically
-    * Filed-injection
+    * Field-injection
       * set field values on your class directly, even private fields
       * accomplished by using Java reflection
 

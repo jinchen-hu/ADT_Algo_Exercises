@@ -252,3 +252,17 @@ Redux is a
 3. Dispatch -- forwards action to
 4. Reducers -- create new
 5. State -- wait until next update
+
+## Redux-thunx
+
+Middleware to help us make requests in a redux application - deal with async/await actions.
+
+
+
+![redux-data-loading](..\common\redux-data-loading.png)
+
+### Middleware in Redux
+
+* function that gets called with every action we dispatch
+* has the ability to STOP, MODIFY, or otherwise mess around with actions
+
