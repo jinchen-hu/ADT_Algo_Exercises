@@ -77,6 +77,7 @@
 | 189    | Medium     | [Rotate Array](189-Rotate-Array/)                            | Array                                                        |
 | 198    | Easy       | [House-Robber](198-House-Robber/)                            | DP                                                           |
 | 200    | Medium     | [Number of Islands](200-Number-of-Islands/)                  | [DFS](../Algorithms/Search/README.md/#Depth-First-Search)    |
+| 203    | Easy       | [Remove Linked List Elements](203-Remove-Linked-List-Elements/) | [Linked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 206    | Easy       | [Reverse Linked List](206-Reverse-Linked-List)               | [Linked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 207    | Medium     | [Course Schedule](207-Course-Schedule/)                      | [DFS](../Algorithms/Search/README.md/#Depth-First-Search), Topological Sorting |
 | 208    | Medium     | [Implement Trie (Prefix Tree)](208-Implement-Trie-(Prefix-Tree)/) | Design                                                       |
