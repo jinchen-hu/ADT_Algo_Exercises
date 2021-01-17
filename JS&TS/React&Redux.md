@@ -266,3 +266,18 @@ Middleware to help us make requests in a redux application - deal with async/awa
 * function that gets called with every action we dispatch
 * has the ability to STOP, MODIFY, or otherwise mess around with actions
 
+# React router
+
+React route uses `exactPath.contains(path)` to determine the components to be shown. Use keyword `exact` to make `exactPaht === path`
+
+1. BrowserRouter
+
+   Users everything after the TLD (.com, .net) or port as the path
+
+2. HashRouter
+
+   Uses everything after `#` as the path
+
+3. MemoryRouter
+
+   Doesn't use the URL to track navigation
