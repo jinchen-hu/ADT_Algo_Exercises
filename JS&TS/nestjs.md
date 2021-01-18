@@ -726,7 +726,7 @@ A pipe is a class annotated with the `@Injectable` decorator. Pipes should impme
 
 * `ParseUUIDPipe`
 
-All `Pipe*` actions works similarly.These pipes all work in the context of validating rout parameters, query string parameters, and request body values.
+All `Pipe*` actions works similarly. These pipes all work in the context of validating rout parameters, query string parameters, and request body values.
 
 * `ValidationPipe`
 * `DefaultValuePipe`
@@ -824,13 +824,13 @@ export class ValidationPipe implements PipeTransform<any> {
 Transformation pipes can perform functions 
 
 1. Type conversion
-2. Provide default value for missing fileds
+2. Provide default value for missing fields
 
 by interposing a processing function between the client request and the request handler
 
 ### Providing Defaults
 
-Simply instantiate `DefaultValuePipe` in the decorators before the relavant `Pipe*`
+Simply instantiate `DefaultValuePipe` in the decorators before the relevant `Pipe*`
 
 ```typescript
 @Get()
