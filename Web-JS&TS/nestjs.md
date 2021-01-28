@@ -1129,3 +1129,10 @@ For GraphQL applications, the host object contains the `[root, args, context, in
 | beforeApplicationShutdown() | called after onModuleDestory() handlers completed<br>once complete, all exisiting connections will be closed |
 |   onApplicationShutdown()   |           called after connections close resolves            |
 
+## Configuration
+
+* central way of defining values that are loaded upon stating the application and should not be changed during run time
+* configuration per environment - deployment, staging, production, etc.
+* configuration can be defined in the code base. useful if you work with multiple developers via version control. Your configuration should always work for with the code it ships with
+* can be defined in many ways (JSON, YAMAL, etc), using custom solution or open-srouce library 
+* can define in condebase or via environment variables
