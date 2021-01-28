@@ -105,3 +105,54 @@ export const UserSchema = new EntitySchema<User>({
 });
 ```
 
+## Migration
+
+A migration is just a single file with sql queries to update a dababase schema and appliy new changes to an existing database
+
+```json
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "root",
+  "password": "root",
+  "database": "test",
+  "entity": ["entity/*.js"],
+  "migrationTableName": "custom_migration_table",
+  "migrations": ["migration/*.js"],
+  "cli":{
+    "migrationsDir": "migration"
+  }
+}
+```
+
+* `"migrationsTableName": "migrations"`: specify this option only if you need migration table name to be different from "migration"
+* `"migration": ["migration/*.js"]"`: indicates that typeorm must load migrations from the given directory
+* `"cli": {"migrationsDir": "migration"}`: indicates that the CLI must create new migrations in the "migration" directory
+
+`typeorm migration:create -n nameOfMigration` is the CLI to create a new migration file
+
+```typescript
+import {MigrationInterface, QueryRunner} from "typeorm";
+
+export class PostRefactoringTIMESTAMP implements MigrationInterface {
+
+    async up(queryRunner: QueryRunner): Promise<void> {
+        await queryRunner.query(`ALTER TABLE "post" RENAME COLUMN "title" TO "name"`);
+    }
+
+    async down(queryRunner: QueryRunner): Promise<void> {
+        // reverts things made in "up" method
+        await queryRunner.query(`ALTER TABLE "post" RENAME COLUMN "name" TO "title"`); 
+    }
+}
+```
+
+`up` has to contain the code that's needed to perform migration
+
+`down` has to revert whatever `up` changed, which means revert the last migration
+
+`typeorm migration:run`: execute all pending migrations and run them in sequence oredered by their timestamps
+
+`typeorm migration:revert`: execute `down`
+
