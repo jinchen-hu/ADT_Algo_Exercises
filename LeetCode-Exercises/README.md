@@ -21,7 +21,8 @@
 | 28     | Easy       | [Implement strStr()](28-Implement-strStr()/)                 | Two Pointers                                                 |
 | 29     | Medium     | [Divide Two Integers](29-Divide-Two-Integers/)               | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 33     | Medium     | [Search In Rotated Sorted Array](33-Search-In-Rotated-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
-| 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
+| 34     | Medium     | [Find First and Last Position of Element in Sorted Array](34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/) | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
+| 35     | Easy       | [Search Insert Position](35-Search-Insert-Position/)         | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 36     | Medium     | [Valid Sudoku](36-Valid-Sudoku/)                             | [HashMap](../Algorithms/Abstract-Data-Type/Map/), Array      |
 | 39     | Medium     | [Combination Sum](39-Combination-Sum/)                       | Backtracking                                                 |
 | 46     | Medium     | [Permutations](46-Permutations/)                             | Backtracking                                                 |
@@ -36,6 +37,7 @@
 | 62     | Medium     | [Unique Path](62-Unique-Path)                                | Combination                                                  |
 | 64     | Medium     | [Minimum Path Sum](64-Minimum-Path-Sum)                      | DP                                                           |
 | 66     | Easy       | [Plus One](66-Plus-One/)                                     | Array                                                        |
+| 67     | Easy       | [Add Binary](67-Add-Binary/)                                 | String                                                       |
 | 69     | Easy       | [Sqrt(x)](69-Sqrt(x)/)                                       | Binary Search                                                |
 | 70     | Easy       | [Climbing Stairs](70-Climbing-Stairs)                        | Fibonacci                                                    |
 | 75     | Medium     | [Sort-Colors](75-Sort-Colors)                                | Two Pointers                                                 |
