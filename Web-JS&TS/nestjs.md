@@ -2,6 +2,8 @@
 
 Nest is a framework for building efficient, scalabel Node.js server-side aplications
 
+![nestjs-arch](../common/nestjs-arch.jpeg)
+
 ## Controllers
 
 Controllers are responsible for handling incoming requests and returning responses to the client
