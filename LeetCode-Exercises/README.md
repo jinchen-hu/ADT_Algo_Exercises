@@ -6,6 +6,7 @@
 | 2      | Medium     | [Add Two Numbers](02-Add-Two-Numbers/)                       | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
 | 3      | Medium     | [Longest Substring without Repeating Charaters](03-Longest-Substring-Without-Repeating-Char/) | Sliding Window, [HashMap](../Algorithms/Abstract-Data-Type/Map/) |
 | 5      | Medium     | [Longest Palindromic Substring](05-Longest-Palindromic-Substring/) | Palindromes                                                  |
+| 6      | Medium     | [ZigZag Conversion](/6-ZigZag-Conversion/)                   | String, Math                                                 |
 | 7      | Easy       | [Reverse Integer](07-Reverse-Integer/)                       | Math                                                         |
 | 9      | Easy       | [Palindrome Number](09-Palindrome-Number/)                   | Math, Two pointers                                           |
 | 11     | Medium     | [Container with Most Water](11-Container-with-Most-Water/)   | Two pointers                                                 |
@@ -16,6 +17,7 @@
 | 20     | Easy       | [Valid Parentheses](20-Valid-Parentheses/)                   | [Stack](../Algorithms/Abstract-Data-Type/Stack/)             |
 | 21     | Easy       | [Merge Two Sorted Lists](21-Merge-Two-Sorted-Lists/)         | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md), Dummy head |
 | 22     | Medium     | [Generate Parentheses](22-Generate-Parentheses/)             | Backtracking                                                 |
+| 24     | Medium     | [Swap Nodes in Pairs](24-Swap-Nodes-in-Pairs/)               | [Licked List](../Algorithms/Abstract-Data-Type/List/LinkedList.md) |
 | 26     | Easy       | [Remove Duplicates from Sorted Array](26-Remove-Duplicates-from-Sorted-Array/) | Two Pointers                                                 |
 | 27     | Easy       | [Remove Element](27-Remove-Element/)                         | Array                                                        |
 | 28     | Easy       | [Implement strStr()](28-Implement-strStr()/)                 | Two Pointers                                                 |
