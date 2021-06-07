@@ -27,6 +27,7 @@
 | 35     | Easy       | [Search Insert Position](35-Search-Insert-Position/)         | [Binary Search](../Algorithms/Search/README.md/#Binary-Search) |
 | 36     | Medium     | [Valid Sudoku](36-Valid-Sudoku/)                             | [HashMap](../Algorithms/Abstract-Data-Type/Map/), Array      |
 | 39     | Medium     | [Combination Sum](39-Combination-Sum/)                       | Backtracking                                                 |
+| 42     | Hard       | [Trapping Rain Water](42-Trapping-Rain-Water/)               | Two Pointers                                                 |
 | 46     | Medium     | [Permutations](46-Permutations/)                             | Backtracking                                                 |
 | 48     | Medium     | [Rotate Image](48-Rotate-Image)                              | Array                                                        |
 | 49     | Medium     | [Group Anagrams](49-Group-Anagrams)                          | [HashMap](../Algorithms/Abstract-Data-Type/Map/)             |
